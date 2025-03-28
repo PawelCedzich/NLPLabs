@@ -42,3 +42,7 @@ def test_weighted_edit_distance(str1, str2, expected_approximate, description):
     assert abs(result - expected_approximate) < 0.01, f"{description}: Expected ~{expected_approximate}, got {result}"
     print(f"\nTest case: '{str1}' to '{str2}' - {description}")
     print(f"Result: {result:.4f} (expected approximately {expected_approximate:.4f})")
+
+print("Running tests...")
+pytest.main([__file__])
+print("Tests completed.")
