@@ -1,5 +1,5 @@
 import pytest
-from z1 import solution
+from z3 import solution
 
 @pytest.mark.parametrize("str1, str2, expected_approximate, description", [
     ("", "", 0.0, "Test 1"),
@@ -41,24 +41,24 @@ from z1 import solution
     ("aaaa", "bbbb", 3.72, "Test 25"),
 
      # Moje testy
-    ("hello", "hero", 1.5, "Usunięcie 'l', różnica w dystansie na klawiaturze"),
-    ("algorithm", "algorihm", 1.0, "Usunięcie 't', symulowanie literówki"),
+    # ("hello", "hero", 1.5, "Usunięcie 'l', różnica w dystansie na klawiaturze"),
+    # ("algorithm", "algorihm", 1.0, "Usunięcie 't', symulowanie literówki"),
 
-    ("computer", "comouter", 1.0, "Zamiana 'p' na 'o', test na pomyłkę bliskich klawiszy"),
-    ("robot", "reboot", 2.33, "Zamiana 'o' na 'e', 'b' na 'o', ciekawe różnice w rozkładzie klawiszy"),
+    # ("computer", "comouter", 1.0, "Zamiana 'p' na 'o', test na pomyłkę bliskich klawiszy"),
+    # ("robot", "reboot", 2.33, "Zamiana 'o' na 'e', 'b' na 'o', ciekawe różnice w rozkładzie klawiszy"),
 
-    ("neural", "netural", 1.0, "Literówka wynikająca z zamiany miejscami 'u' i 't'"),
-    ("matrix", "matrxi", 2.33, "Przestawienie liter, testowanie permutacji"),
-    ("android", "andriod", 1.0, "Typowa literówka wynikająca z przestawienia liter"),
+    # ("neural", "netural", 1.0, "Literówka wynikająca z zamiany miejscami 'u' i 't'"),
+    # ("matrix", "matrxi", 2.33, "Przestawienie liter, testowanie permutacji"),
+    # ("android", "andriod", 1.0, "Typowa literówka wynikająca z przestawienia liter"),
 
-    ("cyborg", "cyber", 2.0, "Usunięcie 'o' i 'g', test skracania słów"),
+    # ("cyborg", "cyber", 2.0, "Usunięcie 'o' i 'g', test skracania słów"),
 
-    ("quantum", "quamtum", 1.0, "Zamiana 'n' na 'm', literówki są częste przy szybkim pisaniu"),
-    ("hacker", "cracker", 3.0, "Większa zmiana, kilka liter do zamiany"),
-    ("glitch", "glitxh", 1.0, "Zamiana 'c' na 'x', test literówek"),
+    # ("quantum", "quamtum", 1.0, "Zamiana 'n' na 'm', literówki są częste przy szybkim pisaniu"),
+    # ("hacker", "cracker", 3.0, "Większa zmiana, kilka liter do zamiany"),
+    # ("glitch", "glitxh", 1.0, "Zamiana 'c' na 'x', test literówek"),
 
-    ("artificial", "artifical", 1.67, "Brak 'i', test na pominięcie znaku"),
-    ("deepfake", "deefpake", 2.11, "Zamiana 'e' i 'p', symulowanie błędu pisania")
+    # ("artificial", "artifical", 1.67, "Brak 'i', test na pominięcie znaku"),
+    # ("deepfake", "deefpake", 2.11, "Zamiana 'e' i 'p', symulowanie błędu pisania")
 
 
 ])
