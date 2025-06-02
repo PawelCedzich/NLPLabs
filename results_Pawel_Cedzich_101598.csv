@@ -1,0 +1,2 @@
+accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,in_scope_accuracy,oos_recall
+0.8455,0.8827,0.874,0.8739,0.8523,0.8455,0.8452,0.8751,0.712

@@ -152,7 +152,7 @@ def solution(
     all_max_proba = np.max(all_proba, axis=1)
     all_pred_idx = np.argmax(all_proba, axis=1)
     all_pred_labels = label_encoder.inverse_transform(all_pred_idx)
-    threshold = 0.6  # możesz zmienić ten próg
+    threshold = 0.1  # możesz zmienić ten próg
 
     # Przypisz "oos" jeśli model jest niepewny
     all_predictions = ["oos" if prob < threshold else pred for prob, pred in zip(all_max_proba, all_pred_labels)]
