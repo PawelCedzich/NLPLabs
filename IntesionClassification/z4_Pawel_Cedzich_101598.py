@@ -19,7 +19,6 @@ def load_data(json_path: str):
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Diagnostyka formatu pliku JSON
     if isinstance(data, list):
         print("BŁĄD: Plik JSON jest listą, a nie słownikiem. Przykładowy element:", data[0])
         raise ValueError("Plik JSON powinien być słownikiem z kluczami: 'train', 'val', 'test', 'oos_test', a nie listą!")
@@ -28,16 +27,14 @@ def load_data(json_path: str):
         print("BŁĄD: Brakuje wymaganych kluczy w pliku JSON. Klucze znalezione:", list(data.keys()))
         raise ValueError("Plik JSON musi zawierać klucze: 'train', 'val', 'test', 'oos_test'.")
 
-    # Dodaj diagnostykę zawartości split
     def extract(split):
-        # Obsługa listy list [text, intent]
         if not isinstance(split, list):
             print("BŁĄD: Oczekiwano listy, otrzymano:", type(split), "Zawartość:", split)
             raise ValueError("Każdy split (train/val/test/oos_test) powinien być listą!")
         if not all(isinstance(item, (list, dict)) for item in split):
             print("BŁĄD: Oczekiwano listy list lub słowników, przykładowy element:", split[0])
             raise ValueError("Każdy split powinien być listą dwuelementowych list lub słowników!")
-        # Obsługa obu formatów
+        
         if all(isinstance(item, dict) for item in split):
             texts = [item["text"] for item in split]
             intents = [item["intent"] for item in split]
@@ -123,50 +120,46 @@ def solution(
 ) -> None:
     seed_everything(42)
 
-    # Wczytaj dane
     train_texts, train_labels, val_texts, val_labels, test_texts, test_labels, oos_texts, oos_labels = load_data(json_path)
 
-    # Połącz dane treningowe i walidacyjne
+    all_texts = test_texts + oos_texts
+    all_labels = test_labels + ["oos"] * len(oos_labels)
+
+    # Usuwanie "oos" z labeli treningowych i testowych do LabelEncoder
+    def filter_oos(texts, labels):
+        return [t for t, l in zip(texts, labels) if l != "oos"], [l for l in labels if l != "oos"]
+
     all_train_texts = train_texts + val_texts
     all_train_labels = train_labels + val_labels
+    enc_train_texts, enc_train_labels = filter_oos(all_train_texts, all_train_labels)
 
-    # LabelEncoder (obsługuje OOS również)
+    # LabelEncoder (bez "oos" jako klasy)
     label_encoder = LabelEncoder()
-    label_encoder.fit(all_train_labels + test_labels)  # nie kodujemy OOS jako label!
+    label_encoder.fit(enc_train_labels)
 
-    y_train = label_encoder.transform(all_train_labels)
-    y_test = label_encoder.transform(test_labels)
+    y_train = label_encoder.transform(enc_train_labels)
 
-    # Wektoryzacja TF-IDF
+    # Wektoryzacja TF-IDF na wszystkich danych
     vectorizer = TfidfVectorizer()
-    X_train = vectorizer.fit_transform(all_train_texts)
-    X_test = vectorizer.transform(test_texts)
-    X_oos = vectorizer.transform(oos_texts)
+    X_train = vectorizer.fit_transform(enc_train_texts)
+    X_all = vectorizer.transform(all_texts)
 
-    # Trening modelu
     clf = LogisticRegression(max_iter=1000)
     clf.fit(X_train, y_train)
 
-    # Predykcje
-    y_pred_test = clf.predict(X_test)
-    y_pred_test_labels = label_encoder.inverse_transform(y_pred_test)
+    # Predykcja dla wszystkich danych naraz
+    all_proba = clf.predict_proba(X_all)
+    all_max_proba = np.max(all_proba, axis=1)
+    all_pred_idx = np.argmax(all_proba, axis=1)
+    all_pred_labels = label_encoder.inverse_transform(all_pred_idx)
+    threshold = 0.6  # możesz zmienić ten próg
 
-    # OOS (traktujemy osobno)
-    y_pred_oos = clf.predict(X_oos)
-    y_pred_oos_labels = label_encoder.inverse_transform(y_pred_oos)
-
-    # Zastępujemy predykcje na OOS etykietą "oos", jeśli model przewidział etykietę spoza 150 klas
-    known_classes = set(label_encoder.classes_)
-    final_oos_pred = ["oos" if pred not in known_classes else pred for pred in y_pred_oos_labels]
-
-    # Połącz dane
-    all_texts = test_texts + oos_texts
-    all_predictions = list(y_pred_test_labels) + final_oos_pred
-    all_true_labels = test_labels + ["oos"] * len(oos_labels)
+    # Przypisz "oos" jeśli model jest niepewny
+    all_predictions = ["oos" if prob < threshold else pred for prob, pred in zip(all_max_proba, all_pred_labels)]
 
     # Zapisz pliki wynikowe w folderze roboczym
     save_predictions(all_texts, all_predictions, predictions_csv_path)
-    save_metrics(all_true_labels, all_predictions, metrics_csv_path)
+    save_metrics(all_labels, all_predictions, metrics_csv_path)
 
 
 # Przykładowe ścieżki do plików:
