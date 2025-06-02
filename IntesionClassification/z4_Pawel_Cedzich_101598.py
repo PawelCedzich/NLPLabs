@@ -10,6 +10,12 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from sklearn.preprocessing import LabelEncoder
 
 
+# Wyjaśnienie:
+# "Seedowanie" w naszym zadaniu oznacza ustawienie ziarna generatora liczb losowych
+# (np. random.seed, np.random.seed), aby wszystkie operacje losowe (np. podział danych,
+# inicjalizacja modelu, losowe permutacje) dawały powtarzalne wyniki przy każdym uruchomieniu kodu.
+# Dzięki temu wyniki eksperymentów są replikowalne i porównywalne.
+
 def seed_everything(seed=42):
     random.seed(seed)
     np.random.seed(seed)
