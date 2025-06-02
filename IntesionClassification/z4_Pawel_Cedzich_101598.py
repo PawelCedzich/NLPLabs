@@ -125,7 +125,6 @@ def solution(
     all_texts = test_texts + oos_texts
     all_labels = test_labels + ["oos"] * len(oos_labels)
 
-    # Usuwanie "oos" z labeli treningowych i testowych do LabelEncoder
     def filter_oos(texts, labels):
         return [t for t, l in zip(texts, labels) if l != "oos"], [l for l in labels if l != "oos"]
 
@@ -133,13 +132,11 @@ def solution(
     all_train_labels = train_labels + val_labels
     enc_train_texts, enc_train_labels = filter_oos(all_train_texts, all_train_labels)
 
-    # LabelEncoder (bez "oos" jako klasy)
     label_encoder = LabelEncoder()
     label_encoder.fit(enc_train_labels)
 
     y_train = label_encoder.transform(enc_train_labels)
 
-    # Wektoryzacja TF-IDF na wszystkich danych
     vectorizer = TfidfVectorizer()
     X_train = vectorizer.fit_transform(enc_train_texts)
     X_all = vectorizer.transform(all_texts)
@@ -147,17 +144,24 @@ def solution(
     clf = LogisticRegression(max_iter=1000)
     clf.fit(X_train, y_train)
 
-    # Predykcja dla wszystkich danych naraz
     all_proba = clf.predict_proba(X_all)
     all_max_proba = np.max(all_proba, axis=1)
     all_pred_idx = np.argmax(all_proba, axis=1)
     all_pred_labels = label_encoder.inverse_transform(all_pred_idx)
-    threshold = 0.1  # możesz zmienić ten próg
 
-    # Przypisz "oos" jeśli model jest niepewny
+    # Analiza dla różnych threshold
+    for threshold in [0.05, 0.1, 0.15, 0.2, 0.3, 0.4, 0.5]:
+        all_predictions = ["oos" if prob < threshold else pred for prob, pred in zip(all_max_proba, all_pred_labels)]
+        in_scope_idx = [i for i, label in enumerate(all_labels) if label != "oos"]
+        oos_idx = [i for i, label in enumerate(all_labels) if label == "oos"]
+        in_scope_oos_pred = sum(1 for i in in_scope_idx if all_predictions[i] == "oos")
+        oos_oos_pred = sum(1 for i in oos_idx if all_predictions[i] == "oos")
+        print(f"Threshold={threshold:.2f} | in-scope jako 'oos': {in_scope_oos_pred}/{len(in_scope_idx)} | oos jako 'oos': {oos_oos_pred}/{len(oos_idx)}")
+
+    # Użyj wybranego threshold do końcowych predykcji
+    threshold = 0.1  # możesz zmienić ten próg
     all_predictions = ["oos" if prob < threshold else pred for prob, pred in zip(all_max_proba, all_pred_labels)]
 
-    # Zapisz pliki wynikowe w folderze roboczym
     save_predictions(all_texts, all_predictions, predictions_csv_path)
     save_metrics(all_labels, all_predictions, metrics_csv_path)
 

@@ -1,14 +1,14 @@
 text,predicted
 how would you say fly in italian,translate
-what's the spanish word for pasta,definition
+what's the spanish word for pasta,oos
 how would they say butter in zambia,translate
 how do you say fast in spanish,translate
-what's the word for trees in norway,definition
+what's the word for trees in norway,oos
 how does one say wonderful in german,translate
 how do they say tacos in mexico,translate
 how would one say cruiser in china,translate
-what's the french word you use for potato,definition
-what would the word for grass be in finland,definition
+what's the french word you use for potato,oos
+what would the word for grass be in finland,oos
 how do you say please in french,translate
 how would i say nice to meet you if i were russian,translate
 what is the right way to say excuse me in spanish,translate
@@ -50,7 +50,7 @@ please move $100 from my checking to saving account,transfer
 transfer seventy dollars between national and citizens accounts,transfer
 transfer four and sixty seven dollars from bank of oklahoma checking to security bank account,transfer
 how much money can i transfer today,transfer
-add funds to the retirement account from the pnc account only,transfer
+add funds to the retirement account from the pnc account only,oos
 would you move 100 dollars from the checking and put it into savings,transfer
 repeat what the weather will be like,weather
 i would like to put 100 dollars from the checking into the savings account now,transfer
@@ -87,7 +87,7 @@ in 15 minutes the timer should go off,timer
 start the timer now,timer
 set a timer for 30 minutes,timer
 set a timer for 5 minutes from now,timer
-let me know when it's been 5 minutes,timer
+let me know when it's been 5 minutes,oos
 can you set the timer to 20 minutes,timer
 define antebellum,definition
 define discontent,definition
@@ -111,9 +111,9 @@ what does ferrari mean,definition
 what is the meaning of the word girn,definition
 what does mature mean,definition
 i'd like to know what bitcoin means,definition
-"i heard some woman say she was going to yerd me, what's that mean",definition
+"i heard some woman say she was going to yerd me, what's that mean",oos
 can you tell me what obsolescence means,definition
-please explain the word catastrophic to me,definition
+please explain the word catastrophic to me,oos
 what's the meaning of naff,definition
 can you tell me what dendrofilous means,definition
 what does peer-to-peer actually mean,definition
@@ -132,7 +132,7 @@ i need to know what the point of life is,meaning_of_life
 let me know what the point of life is,meaning_of_life
 would you provide me with what the point of life is,meaning_of_life
 tell me what the point of life is,meaning_of_life
-what is the reason humans even exist,calculator
+what is the reason humans even exist,oos
 do you think our lives have purpose or meaning,meaning_of_life
 can you tell me about the meaning of life,meaning_of_life
 can you tell me what the meaning of life is,meaning_of_life
@@ -170,7 +170,7 @@ what is the protocol for getting new insurance,insurance_change
 let me know the process for new insurance,insurance_change
 i want to sign up for a new allstate insurance plan,insurance_change
 i need to sign up for a new allstate plan,insurance_change
-what is the procedure for signing up for a new allstate plan,new_card
+what is the procedure for signing up for a new allstate plan,oos
 how do i sign up for a new allstatedplan,new_card
 i want to change to a new allstate insurance plan,insurance_change
 i want a new insurance plan,insurance_change
@@ -230,11 +230,11 @@ what are the travel conditions for haiti,travel_alert
 are there any travel bulletins about haiti,travel_alert
 note any travel alerts for haiti,travel_alert
 find travel alerts for haiti,travel_alert
-does the state department say anything about traveling to haiti,fun_fact
+does the state department say anything about traveling to haiti,oos
 is there a travel alert for france,travel_alert
 is it safe for me to go to turkey,travel_alert
 is it safe to go to serbia,travel_alert
-safety concerns for malaysia,ingredient_substitution
+safety concerns for malaysia,oos
 is it safe for me to visit malawi,travel_alert
 is travel to monterrey safe now,travel_alert
 is it safe for people to travel to pakistan,travel_alert
@@ -254,15 +254,15 @@ can i put in a pto request for august 1st to august 10th,pto_request
 can i put in a pto request for january 4th to january 9th,pto_request
 can i put in a pto request for december 3rd to december 10th,pto_request
 can i put in a pto request for december 25th to january 1st,pto_request
-can i take pto from the end of the month to the 5th of the next month,pto_request
-can you help me plan a vacation,pto_request_status
+can i take pto from the end of the month to the 5th of the next month,oos
+can you help me plan a vacation,oos
 it it possible to take pto from the 8th to the 11th,distance
-is it ok if i use some of my pto on may 24th to may 29th,ingredient_substitution
+is it ok if i use some of my pto on may 24th to may 29th,oos
 what do i do to set up a vacation,pto_request
-i need to use pto on october 5th to october 10th,pto_request
+i need to use pto on october 5th to october 10th,oos
 how do i plan a vacation,pto_balance
 can i put in a pto request for monday to wednesday,pto_request
-can i purchase a vacation using this,pto_request_status
+can i purchase a vacation using this,oos
 how do i get help with a vacation itinerary,pto_balance
 how do i request a vacation,pto_request
 i'd like to request a vacation,pto_request
@@ -294,11 +294,11 @@ i want to know how i can build up a good credit score,improve_credit_score
 """when the credit score improve",improve_credit_score
 """where is improve the credit score",improve_credit_score
 it is damaging to my credit score if i miss one credit card payment,credit_score
-i have a revolving store card and defaulted so will my fico score be affected,damaged_card
-will my fico score decrease if i increase my student loan debt,improve_credit_score
+i have a revolving store card and defaulted so will my fico score be affected,oos
+will my fico score decrease if i increase my student loan debt,oos
 if i lose my job will my credit score go down,improve_credit_score
 can i hurt my credit rating if i open several credit cards in a short time frame,improve_credit_score
-will only having five late payments really make my credit bad,improve_credit_score
+will only having five late payments really make my credit bad,oos
 name unusual facts about the circus,fun_fact
 i need interesting baseball trivia from the nineteen eighties,fun_fact
 tell me a fun fact about cars,fun_fact
@@ -348,7 +348,7 @@ can you make the default language swedish,change_language
 is it possible to talk to you in mandarin,change_language
 would you understand me if i speak to you in navajo,change_language
 i'd like the language to be in spanish,change_language
-i'd like to use you using russian,international_fees
+i'd like to use you using russian,oos
 can i speak spanish to you hombre,change_language
 i want to start talking to you in swedish,change_language
 can i get you to change your language setting to russian,change_language
@@ -382,18 +382,18 @@ look up the date for my next payday,payday
 what day will i earn my payment from work,income
 find out when my next upcoming payday will be,payday
 when is the next payday i can look forward to,payday
-what day can i expect to receive payment on,min_payment
+what day can i expect to receive payment on,oos
 when will my next paycheck be coming,payday
-when will my payment be deposited,bill_due
+when will my payment be deposited,oos
 when do i get my next pay check,payday
 is it payday,payday
 do you know when i'll receive my next paycheck,payday
 what date do i get paid,payday
 how long does it take for a credit card to be reissued and mailed to me,replacement_card_duration
-can credit card companies expedite delivery of reissued credit cards,new_card
-can you call the help desk line for my credit card company,make_call
+can credit card companies expedite delivery of reissued credit cards,oos
+can you call the help desk line for my credit card company,oos
 how can i request a new credit card,new_card
-what's the phone number for my credit card company,find_phone
+what's the phone number for my credit card company,oos
 i recently lost my credit card and need to know how long it takes to get a new one mailed to me,replacement_card_duration
 i need to know the time it takes to get a new credit card sent to someone who lost theirs,replacement_card_duration
 i lost my credit card recently  how long does take to get a new one in the mail,replacement_card_duration
@@ -421,8 +421,8 @@ let me know when the replacement card will arrive,replacement_card_duration
 how soon can i expect a replacement card for my lost card to arrive,replacement_card_duration
 i need you to tell me what time it is in new york now,time
 "what time is it in adelaide, australia right now",time
-is it after noon,weather
-is it six o clock yet,time
+is it after noon,oos
+is it six o clock yet,oos
 please give me the time in tanzania at this moment,time
 can you tell me the current time in jamaica,time
 "tell me the time in san francisco, please",time
@@ -435,7 +435,7 @@ tell me what the time is in dallas,time
 what is the current time in dallas,time
 can you tell me what time it is in dallas,time
 what time is it in dallas,time
-tell time for another city: dallas,time
+tell time for another city: dallas,oos
 what time is it right now at home,time
 what’s the time in new york,time
 tell me the time in california,time
@@ -555,7 +555,7 @@ could you call me a different name,change_user_name
 "could you call me by a different name, please",change_user_name
 "can you call me a different name, please",change_user_name
 "ai, my name is deb please use my name when you talk to me",user_name
-ai answer my questions with my name first which is deb,what_can_i_ask_you
+ai answer my questions with my name first which is deb,oos
 "ai, refer to me as deb when answering me",change_user_name
 "ai, address me as deb when speaking to me",change_user_name
 "ai, call me deb",make_call
@@ -578,7 +578,7 @@ so where do you come from originally,where_are_you_from
 where do you call home,where_are_you_from
 what's your home country,where_are_you_from
 where did you live before you moved here,where_are_you_from
-are you from here or somewhere else originally,where_are_you_from
+are you from here or somewhere else originally,oos
 tell me where you're from,where_are_you_from
 what area did you come from,where_are_you_from
 what is your origin,where_are_you_from
@@ -593,17 +593,17 @@ where do you originate from,where_are_you_from
 where have you come from,where_are_you_from
 where were you before,where_are_you_from
 where were you processed,where_are_you_from
-a hidden government facility,goodbye
+a hidden government facility,oos
 what region were you born,how_old_are_you
 from where did you originate,where_are_you_from
 are you from around here,where_are_you_from
 in what place are you originally from,where_are_you_from
 where did you grow up,where_are_you_from
-tack on a gallon of milk to the grocery list,todo_list_update
+tack on a gallon of milk to the grocery list,oos
 add laundry detergent to the list,todo_list_update
 make sure to put eggs on the grocery list,todo_list_update
-the list should also have 2 loaves of bread,shopping_list_update
-include asparagus on the list,todo_list_update
+the list should also have 2 loaves of bread,oos
+include asparagus on the list,oos
 remove milk and add eggs to my shopping list,shopping_list_update
 put milk on my shopping list,shopping_list
 i'd like to add pancake mix to my shopping list if it's not already there,shopping_list_update
@@ -622,7 +622,7 @@ i'd like to get soda while i'm out; add it to my shopping list,shopping_list_upd
 i need eggs; add them to my shopping list,shopping_list_update
 "take soda from my shopping list, and while you're at it add tea",shopping_list_update
 milk should be added to my shopping list,shopping_list
-"i don't need eggs anymore, but i do need milk",cancel
+"i don't need eggs anymore, but i do need milk",oos
 take paper towels off of my shopping list,shopping_list_update
 i need milk on my shopping list,shopping_list
 i don't need toilet paper anymore; take it off my shopping list,shopping_list_update
@@ -656,12 +656,12 @@ what can you do to make yourself useful,recipe
 what would you be able to do with me,what_can_i_ask_you
 give me examples of what to ask you,what_can_i_ask_you
 tell me what types of questions i can ask you,what_can_i_ask_you
-what are you programmed to do for me,user_name
+what are you programmed to do for me,oos
 what things do you know how to do,what_are_your_hobbies
 how can you help me,what_can_i_ask_you
-undecided,goodbye
+undecided,oos
 i'm afraid i don't know how to answer that,maybe
-might,maybe
+might,oos
 it might go either way,maybe
 both could be,maybe
 either or,maybe
@@ -686,7 +686,7 @@ i think maybe,maybe
 "um, i'm not actually sure",maybe
 i'm not actually sure,maybe
 "um, i'm not sure",maybe
-that might be the case,no
+that might be the case,oos
 i'm not completely certain,no
 unsure,maybe
 help me change my oil,oil_change_how
@@ -759,7 +759,7 @@ is there enough in my wells fargo account to buy some nike's,balance
 do i have enough in my wells fargo account to get some nike's,balance
 do i have money in my wells fargo account for nike's,balance
 "i want some nike's, is there enough in my wells fargo account",balance
-check my wells fargo account to see if i have enough for these nike's,balance
+check my wells fargo account to see if i have enough for these nike's,oos
 would you tell me my bank balance,balance
 can you tell me my bank balance,balance
 will you let me know my bank balance,balance
@@ -777,7 +777,7 @@ how much does my bank account have,balance
 tell me the current account balance,balance
 check my checking balance,balance
 how much do i have left in my checking account,balance
-what's my checking look like,transfer
+what's my checking look like,oos
 how much do i have in my savings account,balance
 confirm my reservation for march 12 at 9:00 am,confirm_reservation
 please confirm that i have a reservation for march 1st at 7,confirm_reservation
@@ -854,8 +854,8 @@ i want to rollover my 401k,rollover_401k
 how do i transfer my 401k to a new firm,rollover_401k
 how do i roll over my 401k,rollover_401k
 can i move my 401k to an ira,rollover_401k
-how do i do a 401(k) rollover,rollover_401k
-can 401ks be moved,maybe
+how do i do a 401(k) rollover,oos
+can 401ks be moved,oos
 can i transfer my 401k somewhere,rollover_401k
 how do i switch 401k companies,rollover_401k
 tell me how to roll over my 401k,rollover_401k
@@ -879,7 +879,7 @@ who assembled you,who_made_you
 i wanna know who programmed you,who_made_you
 let me know who programmed you,who_made_you
 who made you,who_made_you
-i wanna know your maker,what_is_your_name
+i wanna know your maker,oos
 who was your maker,who_made_you
 who is the one who programmed you,who_made_you
 i must know who programmed you,who_made_you
@@ -898,7 +898,7 @@ what company did this design,who_made_you
 what company is responsible for this design,who_made_you
 what company designed this,who_made_you
 "for this design, what company did it",who_made_you
-name the person or group that programmed you,are_you_a_bot
+name the person or group that programmed you,oos
 which way do we go and how long will it take to get to the sears tower in chicago,distance
 "so, does it take long to get to dodger stadium in anaheim",distance
 how many minutes will it take to get to the empire state building in manhattan,distance
@@ -906,13 +906,13 @@ what's the mileage to get the the taj mahal in atlantic city,mpg
 does it take long to get to yankee stadium in the bronx,distance
 how much time is left until we get there,distance
 what's the time to destination going via bus to omaha,distance
-how far from our destination are we,distance
-how many minutes am i from texaco,timer
+how far from our destination are we,oos
+how many minutes am i from texaco,oos
 how long will i be on the bus if i rid it to seattle,distance
 is it going to be much longer until i reach the bank,travel_notification
-am i close to arriving at the post office,directions
+am i close to arriving at the post office,oos
 what's the estimated travel time to get to dc via bus,distance
-when will i arrive at hy-vee,how_busy
+when will i arrive at hy-vee,oos
 how long does it take to get to el paso on a bus,distance
 how long will it take me to get to walmart,distance
 what's the average time to boston when riding a bus,distance
@@ -921,14 +921,14 @@ how long will i be on the bus to new orleans,distance
 how long is a bus ride to staples,distance
 how long does it take to get downtown by bus,distance
 what time will i get to the beach taking the bus,distance
-how far am i from orlando,distance
-give me an eta on when i will arrive at my destination,flight_status
+how far am i from orlando,oos
+give me an eta on when i will arrive at my destination,oos
 tell me how much longer i will have to drive to reach the destination,distance
-when will i get to orlando,payday
-how much farther is orlando from my location,share_location
-do i have a ways to go or am i close to getting to penn station,directions
-please give me the approximate amount of time i will need to go from jfk international airport to penn station,distance
-can you tell me about what time i should be arriving at the airport,time
+when will i get to orlando,oos
+how much farther is orlando from my location,oos
+do i have a ways to go or am i close to getting to penn station,oos
+please give me the approximate amount of time i will need to go from jfk international airport to penn station,oos
+can you tell me about what time i should be arriving at the airport,oos
 how do you refer to me,user_name
 call my name,change_user_name
 what do i go by,calculator
@@ -937,7 +937,7 @@ what do you think my name is,user_name
 what do you think i'm called,what_is_your_name
 what do you have for my name,user_name
 how do you address my name,user_name
-what's your designation,what_is_your_name
+what's your designation,oos
 what do you call me,user_name
 i want to hear my name,change_ai_name
 my name,user_name
@@ -979,7 +979,7 @@ what is the timezone for san francisco,timezone
 what is the timezone for paris,timezone
 what is the timezone for houston,timezone
 denver's timezone is what,timezone
-does denver reside in the eastern timezones,food_last
+does denver reside in the eastern timezones,oos
 which timezone is denver located,timezone
 "denver's timezone is a mystery, i wonder where its located",timezone
 in which time zone does denver reside,timezone
@@ -1003,7 +1003,7 @@ skip ahead one song,next_song
 go to upcoming song,next_song
 play the next song please,next_song
 i dont want to listen to this song,next_song
-could you hit next,next_song
+could you hit next,oos
 can you go to the next song,next_song
 let's go to the next song please,next_song
 maybe we can go to the next song,next_song
@@ -1035,7 +1035,7 @@ state recent transaction,transactions
 is my visa bill over my limit this month,credit_limit
 what have i spent things on,spending_history
 show my transactions,transactions
-what were my last 10 charges on my credit card,transactions
+what were my last 10 charges on my credit card,oos
 show what i have spent things on,spending_history
 how much have i spent on my debit card this month,spending_history
 how much have i spent on my bank card sine i last paid my bill,spending_history
@@ -1067,18 +1067,18 @@ can you suggest a thai restaurant,restaurant_suggestion
 "can you suggest a french restaurant, please",restaurant_suggestion
 "can you suggest a thai restaurant, please",restaurant_suggestion
 are there are any good places in washington that serve cheese pizza,restaurant_suggestion
-what's the food can easily get in canada,travel_suggestion
+what's the food can easily get in canada,oos
 what are the best places to get shrimp in chicago,travel_suggestion
 what are the best restaurants open tonight,restaurant_suggestion
 i need a list of good places to eat near me,restaurant_suggestion
-pull up some recommendations for places serving fish in maine,restaurant_suggestion
+pull up some recommendations for places serving fish in maine,oos
 where should i go for food tonight,restaurant_suggestion
 where should i eat,restaurant_suggestion
 any fantastic restaurants to get shrimp at in atlanta,restaurant_suggestion
 give me a list of places that serve the best wings in charlotte,restaurant_suggestion
-i need reviews for places serving tacos in chicago,restaurant_reviews
+i need reviews for places serving tacos in chicago,oos
 give me restaurant reccomendations,restaurant_suggestion
-where can i satisfy my craving for french food in milwaukee,restaurant_suggestion
+where can i satisfy my craving for french food in milwaukee,oos
 x card has earned how many points,rewards_balance
 can you give me a points update on my rewards plus card,rewards_balance
 can you pull up how many points i've earned with travel card,rewards_balance
@@ -1109,7 +1109,7 @@ tell me the number of points on my visa card,rewards_balance
 give me the point total on my visa card,rewards_balance
 what points have i earned on my visa,rewards_balance
 how many rewards points do i have on my rewards points i have on my mastercard,rewards_balance
-i have a car payment that needs to be paid,payday
+i have a car payment that needs to be paid,oos
 i need to put in a payment towards my phone bill,pay_bill
 help me get my gas bill paid,pay_bill
 pay my con edison bill using my capital one account,pay_bill
@@ -1133,7 +1133,7 @@ charge my internet bill to the corporate account,pay_bill
 pay my gas bill with my checking account,pay_bill
 i need to pay my electric bill,pay_bill
 i know i should pay my electric bill,pay_bill
-"today my electric bill will be paid, or should be",pay_bill
+"today my electric bill will be paid, or should be",oos
 today is the day i should pay my electric bill,pay_bill
 my electric bill should be paid today,pay_bill
 i need to pay my visa,international_visa
@@ -1154,20 +1154,20 @@ how much money did i spend this weekend,spending_history
 tell me how much money i've spent on fast food in the past week,spending_history
 what is the total amount i spent last week,spending_history
 what've i spent on gas this month,spending_history
-have i gone over my entertainment budget,rollover_401k
+have i gone over my entertainment budget,oos
 would you say i've spent too much money on chips as of late,spending_history
-"looking at this week only, have i overspent on hoagies",spending_history
-do i overspend when it comes to fast food,bill_due
+"looking at this week only, have i overspent on hoagies",oos
+do i overspend when it comes to fast food,oos
 "looking at the past month, what did i spend total",spending_history
-have i gone over my chocolate budget lately,spending_history
+have i gone over my chocolate budget lately,oos
 how much have i spent this week,spending_history
 about how much did i spend recently,spending_history
-tell me how much i have been buying as of late,spending_history
+tell me how much i have been buying as of late,oos
 what did i spend on beer last month,spending_history
 did i stick to my dinner budget,meal_suggestion
 how much have i spent on video games recently,spending_history
 do i spend too much on beer,spending_history
-what are my finances like lately,spending_history
+what are my finances like lately,oos
 how much money have i spent recently,spending_history
 did my vacation get approval,pto_request_status
 do you know if vacation got approved,pto_request_status
@@ -1187,7 +1187,7 @@ any update on my vacation,pto_request_status
 is there a status update on my vacation approval,pto_request_status
 can you notify me when my vacation days have approved,pto_balance
 when will my vacation time be confirmed,pto_request_status
-when will i hear back about my days off,next_holiday
+when will i hear back about my days off,oos
 am i okay to take those vacation days,pto_balance
 has my vacation time been approved,pto_request_status
 what is the day off request status as of now,pto_request_status
@@ -1238,14 +1238,14 @@ i want to know how to go about getting a new credit card,new_card
 please tell me how to get a new credit card,new_card
 am i eligible for a new credit card,new_card
 i need to get a new credit card application,new_card
-what's the best way to get a mastercard,directions
+what's the best way to get a mastercard,oos
 is this where i apply for a new credit card,new_card
 how do i apply do get myself a visa,new_card
 can you complete an application for a new credit card for me,new_card
-i need to get a mastercard somehow,vaccines
+i need to get a mastercard somehow,oos
 how can i get a visa card,new_card
 can i apply here for a new card,new_card
-does bank of america give credit cards to people like me,travel_notification
+does bank of america give credit cards to people like me,oos
 what do i do to get a visa card,international_visa
 is it possible for me to get a better credit card,new_card
 how do i submit an application for a discover card,new_card
@@ -1286,7 +1286,7 @@ what should i do about losing my luggage,lost_luggage
 where would i find my luggage,lost_luggage
 my luggage has been misplaced,lost_luggage
 i can't find my luggage,lost_luggage
-i lost all my stuff that i had packed,report_lost_card
+i lost all my stuff that i had packed,oos
 my luggage has disappeared,lost_luggage
 it appears my luggage is lost,lost_luggage
 may you say that again,repeat
@@ -1302,13 +1302,13 @@ i didn't hear you can you say that again,repeat
 i didn't catch that,repeat
 could you repeat that,repeat
 say again please,repeat
-would you mind repeating that,cancel
+would you mind repeating that,oos
 "sorry, i didn't catch that could you say it again",repeat
 i need you to repeat that please,repeat
 repeat that for me please,repeat
 what did you just say,repeat
 please say it one more time,repeat
-sorry i missed that,repeat
+sorry i missed that,oos
 i didn't understand you,repeat
 can you repeat the question again,repeat
 can you phrase that question again,repeat
@@ -1391,32 +1391,32 @@ affirmative,yes
 "yes, that is factual",yes
 "yes, that happens to be correct",yes
 that would be correct,yes
-thats right,yes
+thats right,oos
 "yes, this is true",yes
 sure,maybe
-okay,greeting
-definitely,no
-roger that,yes
-i agree,yes
-absolutely,yes
-you're right,greeting
+okay,oos
+definitely,oos
+roger that,oos
+i agree,oos
+absolutely,oos
+you're right,oos
 "yes, that's right",yes
-please let's do it,todo_list
+please let's do it,oos
 yes please,yes
-can we please,cancel
+can we please,oos
 "yes, please",yes
-10-4,calculator
-ya,goodbye
-yup,yes
-great,goodbye
+10-4,oos
+ya,oos
+yup,oos
+great,oos
 what are some interesting things i can do while in raleigh,travel_suggestion
 can you help me pick some fun things to do in london during my trip,travel_suggestion
-"help me plan my traveling itinerary for my trip to madrid, i want to see lots of sights!",travel_suggestion
-help me pick a new location to travel to,travel_alert
+"help me plan my traveling itinerary for my trip to madrid, i want to see lots of sights!",oos
+help me pick a new location to travel to,oos
 can you do some research about the best places to travel,travel_suggestion
 tell me some fun activities to do in oklahoma city,travel_suggestion
 what are some popular tourist activities in mexico city,travel_suggestion
-i am itching to travel but don't know where to go,travel_alert
+i am itching to travel but don't know where to go,oos
 give me some recommendations of good tourist attractions in montreal,travel_suggestion
 tell me some fun tourist attractions in london,travel_suggestion
 give me some ideas of what to do during my trip to dallas,travel_suggestion
@@ -1424,7 +1424,7 @@ find out the best tourist attractions to visit in moscow,travel_suggestion
 i want some suggestions for tourist activities in dublin,travel_suggestion
 i am traveling to paris soon and would like some suggestions of what to do and see,travel_suggestion
 what are some local attractions in portland,travel_suggestion
-what sorts of activities should i get up to while i am in dublin,travel_suggestion
+what sorts of activities should i get up to while i am in dublin,oos
 i want to explore a new place but don't know where i should go do you have any ideas,restaurant_suggestion
 please give me some ideas of fun tourist activities to do while i am in paris,travel_suggestion
 can you throw out some suggestions to me of places to travel to,travel_suggestion
@@ -1492,7 +1492,7 @@ please add laundry to the chores,todo_list_update
 add mopping to the to do list,todo_list_update
 please put dusting on my list of things to do,todo_list_update
 please note vacuuming on my to do list,todo_list
-insert mowing on the chore list,todo_list_update
+insert mowing on the chore list,oos
 you can dusting off my todo list,todo_list_update
 you take sweeping of my todo list,todo_list_update
 you can vacuuming of my todo list,todo_list
@@ -1522,7 +1522,7 @@ can you tell me the to do's on my reminder list,reminder
 please go though the bullet points on my reminder list,reminder
 what are all the things on my reminder list,reminder
 "i would like to hear the reminders that i listed on my things to remember list, please",reminder
-what were the things i want to recall,reminder
+what were the things i want to recall,oos
 can you please remind me of the items that i made note of to not forget,reminder_update
 refresh my memory about what items i want to remember,reminder
 remind me of the items on my list of things to remember,reminder
@@ -1679,19 +1679,19 @@ tell me the nutrition facts for shepherd's pie,nutrition_info
 i would like nutrition facts for spaghetti carbonara,nutrition_info
 tell me spaghetti bolognese's nutrition facts,nutrition_info
 i want the nutrition facts for buttered spaghetti,nutrition_info
-do i have my nephew's birthday marked for november 10th,calendar
+do i have my nephew's birthday marked for november 10th,oos
 do i have any appoints set for my calendar april 3rd,calendar
-did i set march 10th as my doctor's appointment,calendar_update
+did i set march 10th as my doctor's appointment,oos
 do i have any appointments on my calendar march 22nd,calendar
 did i set a day on my calendar for voting in the next election,calendar
 did i mark the mechanic's appointment on my calendar,calendar_update
-do i have any calendars set for may 12th,calendar
+do i have any calendars set for may 12th,oos
 what day did i set on my calendar for the first day of school,calendar
 is anything on my calendar for june 22nd,calendar
 what do i have going on on my calendar for march 18th,calendar
 is my meeting with frank on my calendar,calendar_update
 what do i have planned for 3/5,calendar
-have i gotten around to adding the bike ride to my calendar yet,calendar_update
+have i gotten around to adding the bike ride to my calendar yet,oos
 what events do i have going on on march 11th,calendar
 i can't remember if i added the fun run to my calendar yet; did i,calendar_update
 have i added my doctor's appointment to my calendar,calendar_update
@@ -1748,13 +1748,13 @@ what is 48 multiplied by 4 divided by 2,calculator
 what is the square root of 95,calculator
 what is 1100 minus 2347,calculator
 tell me what 1875 plus 3459 equals,calculator
-tell me the answer to 1000 divided by 40,calculator
+tell me the answer to 1000 divided by 40,oos
 what is 1000 plus 745,calculator
-i need to know the answer to 10000 multiplied by 44,directions
+i need to know the answer to 10000 multiplied by 44,oos
 what is 100 multiplied by 55,calculator
-what's 15% of 68,calculator
+what's 15% of 68,oos
 what's 47 times 83,calculator
-"if something is 15% off $35, how much is it",calculator
+"if something is 15% off $35, how much is it",oos
 how many times can 3 be divided into 1253,calculator
 divide 100 by 12,calculator
 find square root of 453,calculator
@@ -1764,8 +1764,8 @@ what is the square root of 36,calculator
 what is 592 minus 124,calculator
 i need to know what 25 times 38 is,calculator
 can you calculate the square root of 172,calculator
-i bought 6 shirts at $499 each what was my total expenditure for them,income
-i spent 34 dollars for 12 gallons of paint what is the average price for each gallon,exchange_rate
+i bought 6 shirts at $499 each what was my total expenditure for them,oos
+i spent 34 dollars for 12 gallons of paint what is the average price for each gallon,oos
 what is the sum of eleven and ten,calculator
 what is the solution to sixty times thirty,calculator
 how do i ask the ai to help me with math problem,calculator
@@ -1774,7 +1774,7 @@ what is the current day,date
 which day is it now,date
 what's the name of the day today,date
 what is the day now,date
-what day are we in,next_holiday
+what day are we in,oos
 tell me what tomorrow's date is,date
 please tell me what the date is tomorrow,date
 let me know what tomorrow's date is,date
@@ -1803,11 +1803,11 @@ what restrictions do they have for carry-on,carry_on
 ist all carry-on restrictions applicable to my flight,carry_on
 what are the size limits regarding-carry on bags,carry_on
 how many bags can i carry-on,carry_on
-can i bring perfume on the plane or what is the size limit,credit_limit
-what are the rules for traveling with toothpaste,restaurant_reviews
+can i bring perfume on the plane or what is the size limit,oos
+what are the rules for traveling with toothpaste,oos
 can i bring suntan lotion in my carry on,carry_on
-can i fly with my razors or are there restrictions,are_you_a_bot
-are there restrictions for carrying lighters in my backpack on a plane,travel_suggestion
+can i fly with my razors or are there restrictions,oos
+are there restrictions for carrying lighters in my backpack on a plane,oos
 how many carry ons can i take on a flight with american airlines to japan,carry_on
 how many carry ons can i take on a flight with panam to wales,carry_on
 what is the carry-on policy for flights on panam,carry_on
@@ -1871,7 +1871,7 @@ i need an appointment for someone to check out my check engine light being on,sc
 my check engine light is on so is anyone available to check it out for me,schedule_maintenance
 can someone take a look at my car because the check engine light is on,schedule_maintenance
 do you have time today for someone to look at my car because the check engine light is on,schedule_maintenance
-find a place near me to have my tires inspected,tire_change
+find a place near me to have my tires inspected,oos
 where can i get a appointment for a tire check for the car,schedule_maintenance
 i need to bring my car in because the check engine light is staying lit,schedule_maintenance
 can i get someone to check my check engine light,schedule_maintenance
@@ -1896,7 +1896,7 @@ please inform my bank i'll be vacationing in the bahamas in a couple of days,tra
 "i'm going to be in mexico from thursday to friday, so can you let my bank know",travel_notification
 please kindly inform my bank i'm going to be in canada from next week to two weeks after,travel_notification
 "let my bank know i'll be in ireland from may 01, 2019 to august 02, 2019",travel_notification
-alert my bank i'm checking out seattle for the next month,travel_notification
+alert my bank i'm checking out seattle for the next month,oos
 i'm going to brazil soon and want to let my bank now,travel_notification
 i'm leaving for montreal tomorrow and need to let my bank know,travel_notification
 inform my bank i'm traveling to australia between february 23rd to february 25th,travel_notification
@@ -1908,13 +1908,13 @@ i'll be travelling to russia from april 1 through april 20 and need my financial
 please alert my bank i'm traveling to europe between april 1st and 5th,travel_notification
 tell my bank's fraud department i'm going to mexico,travel_notification
 please notify my bank i'm going to africa between tomorrow and next tuesday,travel_notification
-tell my bank i'm in canada the entire week of the 6th to the 13th,travel_notification
+tell my bank i'm in canada the entire week of the 6th to the 13th,oos
 inform my bank i'm seeing italy,travel_notification
 can you notify my bank that i will be traveling to mexico between march 1st and 15th,travel_notification
 please let my bank know that i will be visiting spain from june 12th to the 24th,travel_notification
 i need you to make my bank aware that i will be visiting taiwan from the 22nd of february until the 3rd of march,travel_notification
-send a notification to my bank of my travel dates from february 19th to 26th to peru,travel_notification
-alert my bank of my travel to dubai for the dates april 14th through april 22nd,travel_notification
+send a notification to my bank of my travel dates from february 19th to 26th to peru,oos
+alert my bank of my travel to dubai for the dates april 14th through april 22nd,oos
 "from sunday to wednesday, i will be in oakland, so should i call my bank to let them know",travel_notification
 my bank needs to know about my traveling to georgia in europe,travel_notification
 must call my bank about my travel plans,make_call
@@ -1933,7 +1933,7 @@ remove the connection to my phone,sync_device
 can you sync up with my phone,sync_device
 i want you to connect to my handset,sync_device
 pair yourself to my phone if you can,sync_device
-connect to my device,sync_device
+connect to my device,oos
 can you link up with my phone,sync_device
 can you disconnect yourself from my phone,sync_device
 don't be synced to my phone anymore,sync_device
@@ -1943,7 +1943,7 @@ please get connected to my phone,sync_device
 i don't want you synced to my phone anymore,sync_device
 sync with my phone please,sync_device
 please unsync from my phone right now,sync_device
-unsync yourself from my device,sync_device
+unsync yourself from my device,oos
 please connect yourself to my main phone,sync_device
 unsync from my phone please,sync_device
 don't be connected to my phone anymore,sync_device
@@ -1968,7 +1968,7 @@ i would like to thank you ai,thank_you
 "ai you have given me so much information, thank you",thank_you
 thanks so much ai,thank_you
 thank you ai for everything you do,thank_you
-"ai is a helpful item to have in my home, thank you",thank_you
+"ai is a helpful item to have in my home, thank you",oos
 thank you very much,thank_you
 "that answer was very helpful, thanks",thank_you
 "great, thanks!",thank_you
@@ -1992,7 +1992,7 @@ roll five sided dice,roll_dice
 roll those dice once,roll_dice
 throw a roll of the dice,roll_dice
 make a roll of the dice,roll_dice
-"ai pick up the dice, then drop it",greeting
+"ai pick up the dice, then drop it",oos
 ai toss the dice,roll_dice
 ai roll the dice,roll_dice
 ai throw the dice on the table,roll_dice
@@ -2004,7 +2004,7 @@ can you roll an eight sided die and tell me what it comes up as,roll_dice
 can you simulate a dice roll,roll_dice
 can you roll a ten sided die and tell me the number,roll_dice
 roll a four sided die for me,roll_dice
-simulate rolling a dice and tell me what it lands on,roll_dice
+simulate rolling a dice and tell me what it lands on,oos
 can you roll a die for me,roll_dice
 can you fake roll a die for me,roll_dice
 what's the result of a 10-sided dice roll,roll_dice
@@ -2016,7 +2016,7 @@ what is expire of milk,food_last
 when is the milk date before used,food_last
 when does the jerky expire,expiration_date
 what is the expiration date for honey,expiration_date
-when is the egg expired,bill_due
+when is the egg expired,oos
 when does the honey expire,expiration_date
 what is the expiration date for those eg,expiration_date
 how long can i freeze tofu before it goes bad,food_last
@@ -2043,7 +2043,7 @@ how long to grill thick steaks,cook_time
 how long does pizza take,cook_time
 lasagna takes how long to cook,cook_time
 bake time for brownies,cook_time
-how many minutes are involved in the preparation of curry,measurement_conversion
+how many minutes are involved in the preparation of curry,oos
 what's the preparation time for this dish,cook_time
 what is the proper cooking time for this,cook_time
 how long do i cook this for,cook_time
@@ -2051,7 +2051,7 @@ look up recipe time for this,recipe
 how many minutes should i put meal the cake in the oven,cook_time
 what's the average cooking time for cooking wings,cook_time
 how many minutes should i set an alarm for this bake,alarm
-when can i expect meal of salmon to be finished,meal_suggestion
+when can i expect meal of salmon to be finished,oos
 how long does it take to cook meal of tuscan,cook_time
 tell me how long it will take to prepare a lasagna,cook_time
 i want to cook a lasagna please tell me how long it will take,cook_time
@@ -2068,7 +2068,7 @@ how long should i cook my turkey,cook_time
 how long do i boil eggs,cook_time
 how long does it take to make mashed potatoes,cook_time
 how long will it take to make an omelet,distance
-what are the minutes needed to cook the meal,meal_suggestion
+what are the minutes needed to cook the meal,oos
 i want to be reminded to pay the electric bill,pay_bill
 don't forget to tell me to call my mother,make_call
 remind me to put gas in my car,reminder_update
@@ -2082,7 +2082,7 @@ i need a reminder to give the dog his medicine at ten tonight,reminder_update
 i don't want to forget to call mom,make_call
 i need a reminder to wash dishes,reminder_update
 remind me to exercise,reminder_update
-help me to remember to pick up stan later,reminder
+help me to remember to pick up stan later,oos
 tell me later to call bill,make_call
 i need to be reminded to do something,reminder_update
 set up a new reminder to alert me when it's time to put the trash out,reminder_update
@@ -2114,10 +2114,10 @@ can you tell me how to report a card lost,report_lost_card
 please tell me how to go about reporting a lost card,report_lost_card
 search steps for how to report a card lost,report_lost_card
 i need to to know how to report a lost card,report_lost_card
-my bank of america visa platinum was swiped from my belongings,travel_notification
+my bank of america visa platinum was swiped from my belongings,oos
 who do i call to report my card as lost,report_lost_card
 what should i do if i need to report my card lost,report_lost_card
-my capital one visa was taken without permission,international_visa
+my capital one visa was taken without permission,oos
 i need to report that someone ran off with my td bank card earlier,damaged_card
 what steps do i need to take to report a card lost,report_lost_card
 i would like to report my american express card stolen,report_lost_card
@@ -2206,8 +2206,8 @@ i need an alarm set now,alarm
 set an alarm for 9 tomorrow,alarm
 don't forget to set an alarm for noon,alarm
 can you set the alarm for noon,alarm
-i need to up by noon,directions
-can you wake me up at noon,alarm
+i need to up by noon,oos
+can you wake me up at noon,oos
 set alarm for noon,alarm
 wake me up with an alarm at 6am,alarm
 help me wake up with an alarm at 5:30am,alarm
@@ -2328,7 +2328,7 @@ please tell me how to find out when my rent is due,bill_due
 i need to know when my electricity bill is due,bill_due
 can you tell me when my cable bill is due,bill_due
 i need to find out how to check the due date for the water bill,bill_due
-when does the current billing cycle end,cancel
+when does the current billing cycle end,oos
 is the bill due today,bill_due
 is the bill due,bill_due
 when do i have to pay my internet,bill_due
@@ -2336,7 +2336,7 @@ i want to know when the deadline is to pay my car loan,bill_due
 tell me when my water bill is due,bill_due
 what day of the month do i have to pay my mortgage,bill_due
 when is my electricity due date,bill_due
-i need to know the next billing date of my american express card,expiration_date
+i need to know the next billing date of my american express card,oos
 when does my gas bill need paid by,bill_due
 when is next month's cable bill due,bill_due
 number of calories in coke,calories
@@ -2375,18 +2375,18 @@ i want to report a damaged card,damaged_card
 where should i report a damaged card,damaged_card
 can you find out how to report a damaged card,damaged_card
 my card has become too frayed and torn to use,damaged_card
-what do i do about a card that's too messed up to be properly scanned,damaged_card
+what do i do about a card that's too messed up to be properly scanned,oos
 my card became damaged when i dropped it in the parking lot and it got ran over,damaged_card
 i have a damaged card that needs replaced because my son dropped it in a blender,damaged_card
 i sat on my credit card and broke it in half and need it replaced,damaged_card
 my credit card got torn and i need a new one,damaged_card
 what do i do with a damaged credit card,damaged_card
 how do i replace a damaged card,damaged_card
-i have a card that needs replaced because my wine dumped wine on it,damaged_card
+i have a card that needs replaced because my wine dumped wine on it,oos
 i spilled wine on my credit card and now its all mushy and needs to be replaced,damaged_card
 my dog swallowed my credit card and i need a new one,damaged_card
 i want to report a damaged card that my cat shredded with its claws,damaged_card
-i need to replace a card that my daughter spilled juice on,damaged_card
+i need to replace a card that my daughter spilled juice on,oos
 i'm unable to use my card because it's been ruined,damaged_card
 i can't use my card because it’s damaged badly,damaged_card
 i cannot use my card cuz it's damaged,damaged_card
@@ -2401,31 +2401,31 @@ i would like to report my card damaged since i accidentally spilled gorilla glue
 my visa has been damaged,international_visa
 does applebees have good reviews,restaurant_reviews
 are the reviews ned get's good,restaurant_reviews
-is the review ned's have good,restaurant_reviews
+is the review ned's have good,oos
 are ned's reviews good,restaurant_reviews
 are the reviews for ned's good,restaurant_reviews
 how are the reviews for tacos at the buffet,restaurant_reviews
-do they serve good tacos at the buffet,restaurant_reviews
-"my favorite, beef tacos at the buffet",restaurant_reservation
-they sold out of tacos at the buffet,how_busy
-"yum, pulled pork tacos at the buffet",restaurant_reservation
-what do people think of the new burger at mcdonalds,restaurant_reviews
+do they serve good tacos at the buffet,oos
+"my favorite, beef tacos at the buffet",oos
+they sold out of tacos at the buffet,oos
+"yum, pulled pork tacos at the buffet",oos
+what do people think of the new burger at mcdonalds,oos
 how are the reviews for the supreme pizza at papa john's,restaurant_reviews
-what are people saying about chick-fil-a's chicken nuggets,restaurant_reviews
+what are people saying about chick-fil-a's chicken nuggets,oos
 show me the reviews for the new jalapeno fries at taco bell,restaurant_reviews
 give me some feedback about the pasta at piada please,fun_fact
-how is gramercy tavern rated,greeting
-how many stars does babbo have,pto_used
+how is gramercy tavern rated,oos
+how many stars does babbo have,oos
 does cielo have good reviews,restaurant_reviews
-do people say per se is any good or not,translate
-what do food critics say about gramercy tavern,translate
+do people say per se is any good or not,oos
+what do food critics say about gramercy tavern,oos
 what are the reviews like for l'auberge aubergine,restaurant_reviews
-how many stars does brasserie les halles have,pto_used
-what rating do the critics give the french laundry,todo_list_update
+how many stars does brasserie les halles have,oos
+what rating do the critics give the french laundry,oos
 does acero have good or bad ratings,restaurant_reviews
 has the french laundry gotten good reviews lately,restaurant_reviews
 what kind of reviews does the olive garden have,restaurant_reviews
-what's the average review for olive garden,restaurant_reviews
+what's the average review for olive garden,oos
 oliver garden reviews,restaurant_reviews
 does olive garden have good customer reviews,restaurant_reviews
 does olive garden have good reviews,restaurant_reviews
@@ -2515,9 +2515,9 @@ can you reserve a room for a friday meeting at 5pm,schedule_meeting
 reserve a meeting room for 5pm on friday,schedule_meeting
 check meeting rooms available between one and three pm,schedule_meeting
 "i need to schedule meeting room for monday at 2:30 pm, please",schedule_meeting
-i would like you to reserve a conference room for noon tomorrow,schedule_meeting
+i would like you to reserve a conference room for noon tomorrow,oos
 please reserve a meeting room for 1:00 pm on tuesday,schedule_meeting
-"go ahead and hold a conference room for friday at 11 am, please",schedule_meeting
+"go ahead and hold a conference room for friday at 11 am, please",oos
 can you book a meeting room for friday at 9:00 am,schedule_meeting
 which gas would be best,gas
 what type of gas should i use,gas_type
@@ -2553,7 +2553,7 @@ would a socket converter be needed in france,plug_type
 how do i plug stuff in in france,plug_type
 is socket converter required in france,plug_type
 does france use a socket converter,plug_type
-is electricity the same in france,travel_suggestion
+is electricity the same in france,oos
 will i need a plug converter when i visit costa rica,plug_type
 will i require a plug converter when i visit kenya,plug_type
 will i need to get a plug converter when i visit guam,plug_type
@@ -2565,7 +2565,7 @@ which plug is used in japan,plug_type
 plug used in china,plug_type
 what kind of plug is used in england,plug_type
 what do i need for a plug in wales,plug_type
-does z used the same plus as we do in the united states,calculator
+does z used the same plus as we do in the united states,oos
 can i used the same type of plug in z as i do in the us,plug_type
 electrical plugs used in that country,plug_type
 are the electric plugs the same over in that country,plug_type
@@ -2588,7 +2588,7 @@ when should my tires be changed,tire_change
 i need to know when i should change my tires,tire_change
 how soon till i need to change my tires,tire_change
 can you tell me when my tires have to be changed,tire_change
-am i almost due for a tire change,tire_change
+am i almost due for a tire change,oos
 when is my car due for an tire change,bill_due
 how do i know when to get the tires changed on my car,tire_change
 how often should my tires be changed,tire_change
@@ -2622,7 +2622,7 @@ what is the usd mxn exchange rate,exchange_rate
 how many mexican pesos is a us dollar worth,exchange_rate
 how much is one us dollar in british pounds,exchange_rate
 whats the exchange rate for us dollars to british pounds,exchange_rate
-what is a british pound worth in mexican pesos,exchange_rate
+what is a british pound worth in mexican pesos,oos
 how many mexican pesos can i get for one us dollar,exchange_rate
 look up the rate of exchange between pesos and usd,exchange_rate
 find me the exchange rate between usd and cad,exchange_rate
@@ -2647,7 +2647,7 @@ do you know when our next day off is,next_holiday
 when are we off work next,next_holiday
 when is the next day we have off,next_holiday
 when will our next day off be,next_holiday
-are there any holidays coming and when,travel_alert
+are there any holidays coming and when,oos
 how many holidays are there and when is the next one here,next_holiday
 for the holidays when is the next one we do here,next_holiday
 what holiday is next and when,next_holiday
@@ -2677,12 +2677,12 @@ please make sure the volume stays at 4,change_volume
 put the volume to 4,change_volume
 volume to 4,change_volume
 turn down your speaker,change_volume
-decrease your decibel level,change_volume
+decrease your decibel level,oos
 be more quiet,cancel
-please lower the sound,change_volume
+please lower the sound,oos
 speak up,change_speed
 not so loud,no
-quieter please,cancel
+quieter please,oos
 increase the volume,change_volume
 turn up the volume,change_volume
 speak louder please,change_volume
@@ -2707,13 +2707,13 @@ i want to know who your boss is,who_do_you_work_for
 would you let me know who your boss is,who_do_you_work_for
 i would like to know who your boss is,who_do_you_work_for
 are you my insubordinate,are_you_a_bot
-does someone else control you,who_do_you_work_for
+does someone else control you,oos
 do i own you,do_you_have_pets
 what firm do you work for,who_do_you_work_for
 do you take your orders from me,where_are_you_from
-do i control you,what_are_your_hobbies
-am i in charge of you,international_fees
-is there another person that controls you,are_you_a_bot
+do i control you,oos
+am i in charge of you,oos
+is there another person that controls you,oos
 who do you take your orders from,who_do_you_work_for
 would you consider someone else your boss,who_do_you_work_for
 do you take orders from someone else,who_do_you_work_for
@@ -2730,7 +2730,7 @@ what is the name of the place you work at,who_do_you_work_for
 what's your boss's name,who_do_you_work_for
 who can i talk to above you,who_made_you
 what's the most i can charge on my card,report_fraud
-how much do i have available on my visa card,rewards_balance
+how much do i have available on my visa card,oos
 what is my visa credit limit,credit_limit
 how much of a credit limit does visa allow,credit_limit
 is there a substantial credit limit on my visa,credit_limit
@@ -2745,7 +2745,7 @@ what's the limit on my discover card,credit_limit
 is there a spending limit,credit_limit
 what is my credit limit on my discover,credit_limit
 what's my spending limit on my discover,credit_limit
-how much is my maximum to spend on credit cards,credit_limit
+how much is my maximum to spend on credit cards,oos
 what's my discover credit limit,credit_limit
 how much can i use on my visa,credit_limit
 my visa has what limit,credit_limit
@@ -2763,15 +2763,15 @@ is the resataurant busy at 5:00 pm,how_busy
 how busy is the cafe at 7:00,how_busy
 would tio's be crowded at 7,how_busy
 can i get a table for four at 8:00,restaurant_reservation
-is the friday's full after 4,food_last
+is the friday's full after 4,oos
 how long is the wait at fridays,how_busy
-is the mexican place crowded at night,how_busy
+is the mexican place crowded at night,oos
 are cool people at the bar at 9:00 pm,restaurant_reservation
-what is the best time to go to get a burger without a line,distance
+what is the best time to go to get a burger without a line,oos
 how long before i can eat at chic fil a,food_last
 how long to be seated at carrabas,how_busy
 is the wait at pizza hut long,how_busy
-is the breakfast place full in the mornings,book_hotel
+is the breakfast place full in the mornings,oos
 is the wait more than an hour at the italian place,how_busy
 tell me how busy red robin is at 5 pm,how_busy
 i wanna know how busy denny's is at 5 am,how_busy
@@ -2779,9 +2779,9 @@ i need to know how busy denny's is at 6 am,how_busy
 how busy is red robin around 5 pm,how_busy
 so how busy is the outback steakhouse at 5 pm,how_busy
 tell me mr joes pizza average wait time,how_busy
-is mr joes pizza available for a seating,nutrition_info
+is mr joes pizza available for a seating,oos
 does mr joes pizza usually have a long wait,how_busy
-can you find out the waiting times for mr joes pizza,calculator
+can you find out the waiting times for mr joes pizza,oos
 what's the typical wait time for mr joes pizza,how_busy
 how busy is cheesecake factory right now,how_busy
 how long is the wait at cheesecake factory,how_busy
@@ -2796,7 +2796,7 @@ does bj's take reservations,accept_reservations
 will bj's take reservations,accept_reservations
 do you know if i can make reservations at bj's,accept_reservations
 tell me if the new york restaurant takes reservations,accept_reservations
-can i reserve tables at the new york restaurant,restaurant_reservation
+can i reserve tables at the new york restaurant,oos
 i want to know if the new york restaurant takes reservations,accept_reservations
 does the new york restaurant take reservations,accept_reservations
 is it possible to make reservations at the new york restaurant,accept_reservations
@@ -2833,8 +2833,8 @@ when will i get my order,order_status
 tell me where my order is,order_status
 what is the status of the order i placed with you yesterday,order_status
 what's the updated status of my order,order_status
-can you help with delivery tracking,what_can_i_ask_you
-i need a delivery tracked,order_status
+can you help with delivery tracking,oos
+i need a delivery tracked,oos
 i need to track my order,order_status
 i placed an order and i need it tracked,order_status
 could you track an order for me,order
@@ -2844,8 +2844,8 @@ how's my amazon order doing,order_status
 i need to track a package,order_status
 i want to track a package i should be getting,order_status
 please track my order,order_status
-can you tell me when my item will get here,payday
-can you tell me where my item is,w2
+can you tell me when my item will get here,oos
+can you tell me where my item is,oos
 what's up with my order,order_status
 are they any updates on my order,order_status
 i need to track the status of my order,order_status
@@ -2874,12 +2874,12 @@ please give me the pin number for my checking account,pin_change
 i need the pin number for my checking account,pin_change
 does my checking account have a pin number,pin_change
 what's the pin number for my checking account,pin_change
-change the code of my savings account to be 1234,pin_change
+change the code of my savings account to be 1234,oos
 alter the pin on my savings account to be 1234,pin_change
 what exactly is my pin,pin_change
 how do i change the account pin number for me,pin_change
 please tell me how do i change the account pin number,pin_change
-good speaking to you,goodbye
+good speaking to you,oos
 it was really awesome to talk to you,goodbye
 it was great to speak with you,goodbye
 it was great to talk to you,goodbye
@@ -2887,7 +2887,7 @@ bye bye then,goodbye
 it was very good to talk to you,goodbye
 good bye then,goodbye
 bye,goodbye
-regards,goodbye
+regards,oos
 catch you later,goodbye
 "great talk, thanks",thank_you
 later,goodbye
@@ -2896,7 +2896,7 @@ see you later,goodbye
 "enjoy your day, goodbye",goodbye
 thank you goodbye,goodbye
 "have a good day, bye",goodbye
-that will be all have a nice day!,goodbye
+that will be all have a nice day!,oos
 "i enjoyed talking to you, bye",goodbye
 it was great talking to you,goodbye
 nice seeing you bye,goodbye
@@ -2904,11 +2904,11 @@ it was nice to chat,goodbye
 it was a pleasure talking to you,goodbye
 ok good chatting goodbye,goodbye
 thanks bye bye!,goodbye
-"that's all i need, i'm going now",yes
+"that's all i need, i'm going now",oos
 "talk to you soon, bye!",goodbye
 "thanks for your help, goodbye!",thank_you
 good bye,goodbye
-signing off,next_holiday
+signing off,oos
 why is my bank account locked,account_blocked
 how do i unlock my bank account,account_blocked
 can you unlock my bank account,account_blocked
@@ -2933,7 +2933,7 @@ reasons that us bank would place a hold on my account,account_blocked
 check to see why us bank placed a hold on my account,account_blocked
 "is there a problem with my account, it appears to be blocked",account_blocked
 "what is up with my account, why is it blocked",account_blocked
-there seems to be an issue with my account,account_blocked
+there seems to be an issue with my account,oos
 can you help me unblock my account,account_blocked
 "can you check what the problem with my account is, it seems to b e blocked",account_blocked
 is there a reason you put a hold on my chase account,account_blocked
@@ -2967,7 +2967,7 @@ on the speaker what song is playing,what_song
 do you know what song is playing on the speaker,what_song
 at the moment what song is playing on the speaker,what_song
 what is playing on the speaker at the moment,what_song
-who is the singer on the speaker now,smart_home
+who is the singer on the speaker now,oos
 what kind of music on the speaker now,play_music
 will i be charged transaction fees if i use my american card internationally,international_fees
 will i incur transaction fees if i use my american card internationally,international_fees
@@ -3002,12 +3002,12 @@ will it cost me anything to use my card in turin,international_fees
 what was the date of my last car appointment,last_maintenance
 was my car in the shop this past week,last_maintenance
 how many weeks ago was my car in the shop,last_maintenance
-did i get my car inspected recently,last_maintenance
+did i get my car inspected recently,oos
 i cannot remember when i last took my car to the shop,last_maintenance
 did i bring my car to the shop last week,last_maintenance
 when did i get my car inspected last,last_maintenance
 give me the date that i last got my car checked,last_maintenance
-did i take my car to the mechanics recently,last_maintenance
+did i take my car to the mechanics recently,oos
 tell me when i got my car checked last,last_maintenance
 when did i last take my car to the shop,last_maintenance
 give me an exact date of when i took my car to the mechanic,last_maintenance
@@ -3063,30 +3063,30 @@ what food do you need to make lasagna,ingredients_list
 what ingredients do you need to make lasagna,ingredients_list
 what ingredients are needed to make lasgana,ingredients_list
 what is needed to make lasagna,ingredients_list
-what is needed to cook lasagna,cook_time
+what is needed to cook lasagna,oos
 give me a recipe for tacos,recipe
 what ingredients are in tacos,ingredients_list
-tell me what's in tacos,travel_suggestion
+tell me what's in tacos,oos
 what's a good recipe foe tacos,recipe
 tell me the ingredients for making tom yum,ingredients_list
 i want to know the ingredients for making pizza,ingredients_list
 let me know the ingredients i will need for pasta making,ingredients_list
 what ingredients are necessary to make spaghetti carbonara,ingredients_list
 what do i need to use to make lasagna,ingredients_list
-how much flour do i need for a strawberry cake,income
+how much flour do i need for a strawberry cake,oos
 tell me the ingredients to make an apple pie,ingredients_list
 what ingredients are in beef jerkey,ingredients_list
 what ingredients does agor agor need,ingredients_list
 what do i need to make authentic kimchi,ingredients_list
 what do i need to make macaroni,ingredients_list
 what do i need to buy for spaghetti,ingredients_list
-what am i gonna need for sushi,restaurant_suggestion
+what am i gonna need for sushi,oos
 what ingredients do i use for pork belly,ingredients_list
 what ingredients are in filet mignon,ingredients_list
 let me know what ingredients i need to make pasta,ingredients_list
 what do i need to make pasta,ingredients_list
 give me a list of ingredients for making pasta,ingredients_list
-pull up everything i need to make a pasta dish,recipe
+pull up everything i need to make a pasta dish,oos
 tell me all the things i need to buy to make pasta,order
 what do i need to make brownies,ingredients_list
 i want to report fraudulent activity on my navy federal card,report_fraud
@@ -3094,17 +3094,17 @@ i would like to report fraudulent activity on my chase card,report_fraud
 i need to report fraudulent activity on my usaa card,report_fraud
 i have to report fraudulent activity on my bank of the west card,report_fraud
 i have to report fraudulent activity the bank of america card,report_fraud
-i seem to have a purchase that i didn't make from olive garden on my account,report_fraud
-my online bill has some items that i didn't purchase from penneys,order_status
-my account shows a transaction that i didn't make from foot locker,report_fraud
+i seem to have a purchase that i didn't make from olive garden on my account,oos
+my online bill has some items that i didn't purchase from penneys,oos
+my account shows a transaction that i didn't make from foot locker,oos
 my bill shows a purchase from payless shoes but i didn't buy anything,order
 i have some charges on my account from old navy that aren't mine,report_fraud
-this charge is bs,report_fraud
+this charge is bs,oos
 i have a bogus transaction from amazon on my account,report_fraud
 i have a fraudulent buy from dave's video on my account,report_fraud
 i have a crap transaction from guitar center on my account,report_fraud
 i think this transaction is bogus,report_fraud
-i don't remember buying this,maybe
+i don't remember buying this,oos
 i have a bs transaction from ebay on my account,report_fraud
 i've got a fraudulent purchase from kayak on my account,report_fraud
 do i have a fraudulent transaction on my account,report_fraud
@@ -3113,12 +3113,12 @@ there's a false charge on my account from mcdonald's,report_fraud
 i think there's a fraudulent charge from mcdonald's on my account,report_fraud
 i think someone jacked my bank account,account_blocked
 i saw suspicious activity on my bank account,report_fraud
-someone else used my account to buy stuff from mcdonald's,report_fraud
+someone else used my account to buy stuff from mcdonald's,oos
 there's a messed up transaction on my account from mcdonald's,report_fraud
 i saw a fraudulent transaction,report_fraud
 i have a false charge on my account from mcdonald's,report_fraud
 who do i contact to report fraud on my visa,report_fraud
-there has been unauthorized use of my visa,international_visa
+there has been unauthorized use of my visa,oos
 how many teaspoons will make one tablespoon,measurement_conversion
 i need the conversion between a cup and a tablespoon,measurement_conversion
 inform me how many pounds are in 10 kilos,measurement_conversion
@@ -3152,7 +3152,7 @@ how many liters are in 1 gallon,measurement_conversion
 i would like it if you would turn the bedroom lights on low until i'm finished reading,smart_home
 i need you to turn the bathroom lights on,smart_home
 set the ceiling fan to low,smart_home
-start the dishwasher,smart_home
+start the dishwasher,oos
 turn on the tv on channel 6,smart_home
 turn on the microwave for 3 minutes,smart_home
 "on the tv, turn on",smart_home
@@ -3172,7 +3172,7 @@ what is it like the temperature at ac,smart_home
 "to 350, set the oven",smart_home
 please turn the lights down low,smart_home
 can you adjust the lights down,smart_home
-i want the light less bright please,schedule_maintenance
+i want the light less bright please,oos
 make the lights darker,smart_home
 please set the oven to 350 f,smart_home
 please set the temperature to 70 f,smart_home
@@ -3221,7 +3221,7 @@ can you tell me my current location,current_location
 where am i located on the map,current_location
 where am i currently located,current_location
 show my location on the map,current_location
-i am currently located in what town,current_location
+i am currently located in what town,oos
 my current location is what,current_location
 give me my location,share_location
 tell me where i am,current_location
@@ -3236,7 +3236,7 @@ where am i on the map,current_location
 show me where i am on the map please,current_location
 open map and pin point my location,current_location
 show me my location,current_location
-what could help me locate myself,calculator
+what could help me locate myself,oos
 i need assistance with my current location,share_location
 where would i search for my location,current_location
 what is the weather,weather
@@ -3328,7 +3328,7 @@ do you know the smallest amount i can pay on my water bill,min_payment
 look up the lowest amount i can pay on my electricity bill,min_payment
 what is the minimum payable amount for my rent bill this month,min_payment
 what is the minimum payment on my water bill,min_payment
-"if i wanted to spend the lowest for my electric bill, then how much would it be",bill_balance
+"if i wanted to spend the lowest for my electric bill, then how much would it be",oos
 set whisper mode to off,whisper_mode
 switch off whisper mode,whisper_mode
 switch whisper mode off,whisper_mode
@@ -3363,8 +3363,8 @@ stop what you're doing,cancel
 this process needs to stop,cancel
 stop this process,cancel
 "that was a mistake, undo that",yes
-ignore the previous command,cancel
-forget what i told you to do,what_are_your_hobbies
+ignore the previous command,oos
+forget what i told you to do,oos
 please cancel the last input,cancel
 please stop the current process,cancel
 can you end the current process,cancel
@@ -3381,7 +3381,7 @@ can you cancel that request,cancel
 "could you cancel that request, please",cancel
 "can you cancel that request, please",cancel
 "can you cancel that, please",cancel
-hush,goodbye
+hush,oos
 be quiet,cancel
 stop it now!,cancel
 stop talking you are annoying,cancel
@@ -3389,21 +3389,21 @@ you need to shut it,cancel
 stop processing,cancel
 abort mission,cancel
 stop speaking,cancel
-are visas needed to travel to jamaica,travel_alert
+are visas needed to travel to jamaica,oos
 do i need a visa for south korea,international_visa
 "if i go to columbia, will i need a visa",international_visa
-are visas required to go to cuba,vaccines
+are visas required to go to cuba,oos
 do i need to apply for a visa for my trip to india,international_visa
 if i go to indonesia would i need a visa,international_visa
 do i need a visa to travel to indonesia,international_visa
 should i apply for a visa if i am traveling to mexico,international_visa
 is a visa necessary for traveling to south africa,international_visa
 if i want to travel to singapore do i need a visa,international_visa
-do americans need visas in canada,travel_suggestion
+do americans need visas in canada,oos
 would i need a visa in taiwan,international_visa
 i'd like to go to malaysia so do i need a visa,international_visa
 is a travel visa needed for thailand,international_visa
-what are the visa requirements for brazil,international_visa
+what are the visa requirements for brazil,oos
 is a travel visa required to visit paraguay,international_visa
 does travelling to st petersburg require a travel visa,international_visa
 should i get a travel visa if i want to go to guyana,international_visa
@@ -3418,7 +3418,7 @@ if i get a visa can i travel to japan,international_visa
 do i need a visa if i'm going to san jose,international_visa
 do i need a visa to travel outside of the us,international_visa
 are visas for international travel,travel_alert
-can you travel outside of the united states without a visa,international_visa
+can you travel outside of the united states without a visa,oos
 do i need to get any shots before i travel to morocco,vaccines
 do i need to get any shots before i travel to south africa,vaccines
 do i need to get any shots before i travel to zimbabwe,vaccines
@@ -3439,10 +3439,10 @@ is vaccination necessary for travel to asia,vaccines
 should i have my shots up to date before i travel to the virgin islands,vaccines
 "if you were traveling to indonesia, as i am, would you have your shots updated before your visit",where_are_you_from
 are shots required before traveling to china,vaccines
-does cuba require vaccines,vaccines
-which vaccines are meant for cuba,vaccines
+does cuba require vaccines,oos
+which vaccines are meant for cuba,oos
 which vaccines will i need for cuba,vaccines
-do i need a vaccine for the congo,vaccines
+do i need a vaccine for the congo,oos
 vaccines for my trip to cuba,vaccines
 are there vaccinations needed if i go there,vaccines
 would vaccinations be needed if i go here,vaccines
@@ -3485,15 +3485,15 @@ how do i get to the train by foot,directions
 how do i get to central park by foot,directions
 how do i get to the airport by foot,directions
 where is the nearest wal mart,directions
-i want directions to phoenix,directions
+i want directions to phoenix,oos
 i must understand the nearest gas station to glendale,directions
-i need some directions to phoenix,travel_suggestion
-give me directions to phoenix,directions
+i need some directions to phoenix,oos
+give me directions to phoenix,oos
 i must know the closest gas station to glendale,directions
 where is the nearest fry's,directions
 where is the nearest papa john's,directions
 i would love to know the closest gas station to glendale,directions
-get me directions to phoenix,directions
+get me directions to phoenix,oos
 where is the nearest k mart,directions
 where is the nearest circuit city,directions
 let me know the nearest gas station to glendale,directions
@@ -3568,13 +3568,13 @@ i need to know how you are doing today,greeting
 hello there ai,greeting
 will you tell me how the ai is doing,greeting
 would you tell me how the ai is doing,greeting
-hola!,greeting
+hola!,oos
 so please reset your factory settings,reset_settings
 i need your to reset to factory settings,reset_settings
 now reset your factory settings,reset_settings
-revert to the original configuration,reset_settings
+revert to the original configuration,oos
 change back to the factory set up,reset_settings
-change all setting to original ones,reset_settings
+change all setting to original ones,oos
 please reset to factory settings,reset_settings
 reset all settings to the factory settings,reset_settings
 can you please revert to factory settings at this time,reset_settings
@@ -3593,7 +3593,7 @@ please rely on your original settings,reset_settings
 can you return to the factory fresh settings,reset_settings
 please return to default settings,reset_settings
 revert to original settings,reset_settings
-start over using factory setting,change_language
+start over using factory setting,oos
 go back to the default settings please,reset_settings
 revert to factory settings,reset_settings
 go back to factory settings,reset_settings
@@ -3604,7 +3604,7 @@ what did they name you,what_is_your_name
 "hey, how do i call your attention",make_call
 what's your name,what_is_your_name
 give me your name so i can use you,what_is_your_name
-how should i address you,what_is_your_name
+how should i address you,oos
 what do i call you,what_is_your_name
 what's your name anyway,what_is_your_name
 tell me what to call you,user_name
@@ -3615,7 +3615,7 @@ how do you say your name,what_is_your_name
 what is your preferred name,what_is_your_name
 what can i call you,make_call
 what name do you go by,what_is_your_name
-who do i have the pleasure of speaking with,who_made_you
+who do i have the pleasure of speaking with,oos
 may i have your name,what_is_your_name
 who am i speaking with,who_made_you
 and your name is,what_is_your_name
@@ -3759,14 +3759,14 @@ i need to book a flight on jet blue to boston from new york,book_flight
 can you get me a flight from san francisco to san jose using american airlines,book_flight
 i want a flight from new york to san francisco using delta,book_flight
 get me a flight from barcelona to paris from jet blue,book_flight
-"""i'll be travelling from lax and headed to phl for 120 on the 10th of may",travel_notification
-"""i'm fly out from lax to phl this weekend for around $120",book_flight
-"""i""m headed out to lax and going to phl for a low price of $120 this weekend on the 12th",book_flight
+"""i'll be travelling from lax and headed to phl for 120 on the 10th of may",oos
+"""i'm fly out from lax to phl this weekend for around $120",oos
+"""i""m headed out to lax and going to phl for a low price of $120 this weekend on the 12th",oos
 """i'm going on a flight from lax and going to phl, which is only $120 on june 15th",book_flight
-"""i'll leave to lax and go to phl for $120 on nov 5th",book_flight
+"""i'll leave to lax and go to phl for $120 on nov 5th",oos
 book me a flight from midway to jfk for less than 200 dollars,book_flight
 i need a flight from boston to miami for under 300 dollars,book_flight
-can i fly from atlanta to san francisco for less than 100 dollars,book_flight
+can i fly from atlanta to san francisco for less than 100 dollars,oos
 book a flight from new york to la for less than 200 dollars,book_flight
 find me a flight from seattle to detroit for less than 200 dollars,book_flight
 i want to a book a roundtrip flight from san antonio to dtw departing on friday and returning on wednesday,book_flight
@@ -3786,21 +3786,21 @@ iterate over the items on my grocery list,todo_list
 tell me what i have on my shopping list,shopping_list
 do i have twinkies on the grocery list,todo_list
 have i already got eggs down on the shopping list,shopping_list
-recite the items i'm planning to purchase,order
+recite the items i'm planning to purchase,oos
 what do i currently have on my shopping list,shopping_list
 what's on my to-buy list,todo_list
 what's on my purchase list,todo_list
-do i have to buy milk,order
+do i have to buy milk,oos
 is milk on my shopping list,shopping_list
 is milk one of my shopping list items,shopping_list
-am i supposed to buy milk,order
-is milk one of the things i need to buy,order
+am i supposed to buy milk,oos
+is milk one of the things i need to buy,oos
 tell me what's is on my shopping list,shopping_list
 please read my shopping list,shopping_list
 did you put carrots on the shopping list,shopping_list_update
 does the shopping list have apples on it,shopping_list
 are carrots added to the grocery list,shopping_list_update
-is garlic on my grocery list,todo_list
+is garlic on my grocery list,oos
 did carrots get on my shopping list,shopping_list
 what things are on my shopping list today,shopping_list
 tell me the items in my shopping list,shopping_list
@@ -3814,7 +3814,7 @@ let me know what's on my shopping list,shopping_list
 send davis a text i'll be there in a few,text
 text laura i'll be late for dinner,text
 "text mike, ""i'm running late",text
-tell jim i'm coming home soon,goodbye
+tell jim i'm coming home soon,oos
 i want to tell susan that the meeting has been cancelled,schedule_meeting
 tell fred that i don't have his guitar,maybe
 could you send a text to bill saying no,text
@@ -3844,7 +3844,7 @@ what is the amount due on my visa,bill_due
 how much do i owe visa,bill_balance
 how much do you think my rent and electric bills are,bill_balance
 what would you say my gas and phone bills are at,bill_balance
-i need to know the price of my car payment and insurance please,insurance_change
+i need to know the price of my car payment and insurance please,oos
 what price is my credit card and my water bill at,bill_balance
 how much is my water and sewer,bill_balance
 how much do i need to pay for my electricity and water bills,bill_balance
@@ -3852,20 +3852,20 @@ what is the cost of my rent and water bills,bill_balance
 how much are my rent and cable,bill_balance
 how much does my water and electricity cost,bill_balance
 what do i owe this month on all my bills,bill_balance
-"i think all my bills are paid, but can you double check",bill_balance
+"i think all my bills are paid, but can you double check",oos
 "i think i owe about 100 left on my bills, am i forgetting anything",bill_balance
 what are my bills this month,bill_balance
 what does my cable bill look like,bill_balance
 has my electricity bill increased this month how much,bill_balance
-how expensive is my internet,greeting
+how expensive is my internet,oos
 how much will my monthly bill be,bill_balance
 what are my total bills this month,bill_balance
-what will i be paying for utilities this month,bill_balance
+what will i be paying for utilities this month,oos
 how much is my telephone bill this month,bill_balance
 how much is due for my water bill,bill_balance
 how much do i have to pay this month,bill_balance
 tell me my water bill please,bill_balance
-is the phone bill the same as last month,bill_balance
+is the phone bill the same as last month,oos
 whens my insurance due and how much does it cost,bill_balance
 how much is the car bill this month,bill_balance
 what is the electricity bill,bill_balance
@@ -3934,24 +3934,24 @@ play the song called wreckless love,play_music
 play the song called i want it that way,play_music
 play the song called dancing on the ceiling,play_music
 play the song called amazing grace,play_music
-get me my slow sounds,change_speed
-let me hear my slow songs,play_music
-pull up the songs under slow,change_speed
+get me my slow sounds,oos
+let me hear my slow songs,oos
+pull up the songs under slow,oos
 i want to hear my slow playlist,play_music
-i'm in the mood for slow songs and nothing else,change_speed
+i'm in the mood for slow songs and nothing else,oos
 "the song that goes, ""starships were meant to fly"", play it",play_music
 "please play that song that goes, ""starships were meant to fly",play_music
 "play the song that goes, ""starships were meant to fly",play_music
 "can you play the song that goes like, ""starships were meant to fly",play_music
 "will you play the song that goes like, ""starships were meant to fly",play_music
-drop some beats,travel_suggestion
-turn on top 20 country hits,smart_home
+drop some beats,oos
+turn on top 20 country hits,oos
 turn on my tunes,smart_home
 please play music by acdc,play_music
 play oldschool rap,play_music
 put on some metallica music,play_music
 play music by ludacris,play_music
-bump some jams,travel_suggestion
+bump some jams,oos
 play ludacris hits,play_music
 play a song,play_music
 turn on metallicas greatest hits,smart_home
@@ -3986,8 +3986,8 @@ clear my calendar for february 29th,calendar_update
 clear my calendar for april 20th,calendar_update
 clear my calendar for november 11th,calendar_update
 remove wrestlemania from my calendar for may 7th,calendar_update
-what can i do to get rid of this event,travel_suggestion
-what is the best way to remove this appointment,calendar_update
+what can i do to get rid of this event,oos
+what is the best way to remove this appointment,oos
 friday needs to be clear on my calendar,calendar_update
 tell me if you are a human or are a computer,are_you_a_bot
 would you tell me if you are a human or are a computer,are_you_a_bot
@@ -4015,7 +4015,7 @@ would most people say you are a computer or a human,are_you_a_bot
 are you real or a computer,are_you_a_bot
 are you a computer generated voice,are_you_a_bot
 am i talking to a real live person,are_you_a_bot
-is your voice from a human or is it synthesized,are_you_a_bot
+is your voice from a human or is it synthesized,oos
 are you a person or artificial intelligence,are_you_a_bot
 could you tell me if you're a real person,are_you_a_bot
 are you a person or robot,are_you_a_bot
@@ -4025,7 +4025,7 @@ do i have enough gas to get home,gas
 do i have enough fuel to travel to san diego from here,gas
 will i make it to my current destination on this fuel tank,gas
 can i make it to los angeles with this fuel level,gas
-can i reach seattle with this amount of fuel,gas_type
+can i reach seattle with this amount of fuel,oos
 do i have enough gas in my tank to make it to washington dc,gas
 do i have enough gas in my car to make it to dallas,gas
 will i run out of gas before i reach atlantic city,gas
@@ -4038,7 +4038,7 @@ what percentage full is my gas tank,gas
 how full or empty is my tank of gas,gas
 how much gas do i have left in my tank,gas
 how full is my gas tank,gas
-how many more miles can i drive on my current tank,gas
+how many more miles can i drive on my current tank,oos
 how much gas is left in my car,gas
 how full is the gas tank,gas
 what does the gas meter read,gas
@@ -4049,7 +4049,7 @@ can you tell me how much gas is in my tank,gas
 tell me my gas tank levels,gas
 what is the data of my gas tank,gas
 how much gas do i have in my tank,gas
-"i want to bring my card on the texas trip in june, will it be expired by then",damaged_card
+"i want to bring my card on the texas trip in june, will it be expired by then",oos
 "what's the month, year, and day that my card expires",expiration_date
 "does my card ending in 1234, or any of my cards, expire soon",expiration_date
 "does my card have an expiration date and if so, what is it",expiration_date
@@ -4175,7 +4175,7 @@ id like to change your name to max,change_ai_name
 what do you think about changing your name to heath,what_is_your_name
 lets start calling you allan,change_ai_name
 i would like to start calling you heath,change_ai_name
-what do you think about me calling you cora,user_name
+what do you think about me calling you cora,oos
 im going to call you xander,make_call
 can we change your name to clara,change_ai_name
 how about lets start calling you juliette,change_ai_name
@@ -4187,8 +4187,8 @@ can i rename you bob,change_ai_name
 i want to rename you joe,change_ai_name
 "your new name is joe, okay",change_ai_name
 i'm going to start calling you joe,change_ai_name
-you are going to be called joe now,greeting
-start responding to joe,change_ai_name
+you are going to be called joe now,oos
+start responding to joe,oos
 i'm changing your name to joe,change_ai_name
 i'd like to start calling you buddy,change_ai_name
 i'd like to start calling you jake,change_ai_name
@@ -4230,7 +4230,7 @@ how old,how_old_are_you
 what's your date of birth,how_old_are_you
 how old are you turning,how_old_are_you
 i need to rent an suv in charlestown for the first week in june who do you suggest,car_rental
-find a decent rental care for next week at the philadelphia airport,car_rental
+find a decent rental care for next week at the philadelphia airport,oos
 who can i rent a car from next month in orlando,car_rental
 "i need to rent a car kfor one week in ocean city, nj so who has the best deal",car_rental
 "find me a car rental for the weekend in asheville, nc via priceline",car_rental
@@ -4245,7 +4245,7 @@ where in syracuse can i book a car,car_rental
 book me a car rental in wichita,car_rental
 how many places in dallas can i rent a car,car_rental
 where can i rent a car in singapore,car_rental
-"march 2nd through march 18th, i'm going to need a jeep in frankfort",book_hotel
+"march 2nd through march 18th, i'm going to need a jeep in frankfort",oos
 rent a car for 3/1 through 3/3 in boston; i'd prefer an suv,car_rental
 can i rent a sports car in augusta for 3/4 through 3/8,car_rental
 "in tampa, i'd like to rent a sedan from 4/1 until 4/5",car_rental
@@ -4300,44 +4300,44 @@ can you give me a meal suggestion from the south,meal_suggestion
 i want to try a meal from ireland,meal_suggestion
 i want a meal from vietnam to be suggested to me,meal_suggestion
 what are good thai dishes,restaurant_suggestion
-i would like thai food,meal_suggestion
-can you recommend thai food,restaurant_suggestion
+i would like thai food,oos
+can you recommend thai food,oos
 i need a thai food suggestion,meal_suggestion
 thai food suggestions,meal_suggestion
-i need options or italian tonight,restaurant_suggestion
-do you have any recommendations for korean,meal_suggestion
+i need options or italian tonight,oos
+do you have any recommendations for korean,oos
 do you have any ideas for a mexican meal,meal_suggestion
-what kind of indian would you recommend,what_can_i_ask_you
+what kind of indian would you recommend,oos
 what would you suggest for japanese,meal_suggestion
-i need to know what's good for chinese around here,restaurant_suggestion
+i need to know what's good for chinese around here,oos
 i want to make something from ethiopia for dinner,meal_suggestion
 i need some ideas for a mexican meal,meal_suggestion
-i want to eat something from turkey,restaurant_suggestion
+i want to eat something from turkey,oos
 i need a good italian dish,meal_suggestion
 i need a good meal idea from italy,meal_suggestion
-do you have any suggested roman recipes,do_you_have_pets
+do you have any suggested roman recipes,oos
 can you give me a american dinner suggestion,meal_suggestion
 tell me what to make for dinner,meal_suggestion
 do you know what is for dinner,meal_suggestion
 what do i need to do to cook a chicken,cook_time
-how do i go about cooking a 10lb turkey,cook_time
-how do i get started making homemade pizza dough,recipe
-what instructions do i need to bake a cake from scratch,ingredients_list
+how do i go about cooking a 10lb turkey,oos
+how do i get started making homemade pizza dough,oos
+what instructions do i need to bake a cake from scratch,oos
 how do i make lasagna,recipe
 how do you make pasta,recipe
-how do you prepare omelet,greeting
-how do you prepare taco,greeting
+how do you prepare omelet,oos
+how do you prepare taco,oos
 how do you make fried rice,recipe
-how do you cooked eggs,greeting
+how do you cooked eggs,oos
 what's a good chili recipe,recipe
 i need a recipe for chili,recipe
-search for chili recipes,recipe
+search for chili recipes,oos
 search for a chili recipe for me,recipe
 find me a recipe for chili,recipe
-show me ideas for hamburger,transactions
-can you get me recipes for eggs please,recipe
+show me ideas for hamburger,oos
+can you get me recipes for eggs please,oos
 show me how to make tuna casserole please,recipe
-recipes for garlic bread please,ingredient_substitution
+recipes for garlic bread please,oos
 please tell me a recipe for this meal,recipe
 can you find me a pork recipe,recipe
 can you find me a brisket recipe,recipe
@@ -4352,7 +4352,7 @@ find a recipe for baked ziti,recipe
 how much money do i make,income
 how much money do i earn,income
 what amount of money do i earn,income
-what do i take home,where_are_you_from
+what do i take home,oos
 how much do i take home yearly,income
 how much do i earn,income
 what's my yearly salary,income
@@ -4360,7 +4360,7 @@ what's my salary,income
 how much do i earn a year,income
 what do i make annually,ingredients_list
 what do i bring in over a year,travel_suggestion
-please tell me what amount i'm earning,income
+please tell me what amount i'm earning,oos
 can you please tell me my income,income
 how much money am i earning,income
 what is my compensation,calculator
@@ -4377,13 +4377,13 @@ what is my current salary,income
 what's the amount of my income,income
 what amount is my income,income
 i want to know my income,income
-what is my payment going to be,travel_notification
+what is my payment going to be,oos
 how much is the pay offered for my work,income
 "alexa, buy a new television",order
 place my order alexa,order_status
 "siri, place my amazon order",order_status
 "alexa, buy my grocery list",order
-purchase grass seed from the store,order
+purchase grass seed from the store,oos
 find inner tube and buy it for me,order
 can you order me some nacho chips,order
 i'd like to buy something,order
@@ -4395,22 +4395,22 @@ place an order for my whole shopping list,order
 "order me some doritos, please",order
 place an order for my entire shopping list,order
 can you buy something,order
-make a purchase of doritos,order
+make a purchase of doritos,oos
 i'd like to you order everything that's on my shopping list,order
 please buy me something,order
 order my whole shopping list,order
 can you order some more eggs for me since i just ran out,order
-i've used the last can of tuna fish and need you to order a new case of it,order
+i've used the last can of tuna fish and need you to order a new case of it,oos
 i've just run out of butter and need you to order me some more,order
 i'm out of milk so you will order me some more,order
-can you place an order for the olive oil i just finished,order
+can you place an order for the olive oil i just finished,oos
 please go on amazon so i can buy bluetooth speakers,order
 will you please go on amazon so i can buy speakers,order
-where can i find bluetooth speakers,w2
-what is the price of bluetooth speakers on amazon,calculator
+where can i find bluetooth speakers,oos
+what is the price of bluetooth speakers on amazon,oos
 please order some more pepsi,order
 i need to know traffic patterns heading to the george washington bridge from manhattan,traffic
-"can you give me a traffic update for driving routes nearest ocean city, new jersey from philadelphia",traffic
+"can you give me a traffic update for driving routes nearest ocean city, new jersey from philadelphia",oos
 "what will traffic be like nearest the george washington bridge, new york",traffic
 "what traffic can i expect on the way to the newark, new jersey from philadelphia",traffic
 can you tell me the traffic situation from philadelphia to the new jersey turnpike,traffic
@@ -4495,7 +4495,7 @@ why was my card not working at target,card_declined
 my credit card was turned down at target and i'd like to know why,card_declined
 how come i got declined,card_declined
 why can't i use my credit card,card_declined
-why won't you let me pay with my credit card,card_declined
+why won't you let me pay with my credit card,oos
 why did i get rejected on my card,card_declined
 how come my credit card isn't working,damaged_card
 why didn't my card work,card_declined
@@ -4504,27 +4504,27 @@ how many prime numbers are there between 0 and 100,oos
 can you tell me how to solve simple algebraic equations with one variable,oos
 can you dim the brightness of my screen,oos
 what is the account number to the internet service i have,oos
-can you see a hdmi cord,oos
-what veggies can i pair with mushrooms,oos
-can you put the car in fuel efficient mode,oos
+can you see a hdmi cord,goodbye
+what veggies can i pair with mushrooms,what_can_i_ask_you
+can you put the car in fuel efficient mode,gas_type
 at what age can someone get a card,oos
 please find today's most read stories from the new york times todayi,oos
 how do i get red wine out of a couch cushion,oos
-can you tell me who sells dixie paper plates,oos
-who invented the internet,oos
+can you tell me who sells dixie paper plates,who_made_you
+who invented the internet,who_made_you
 what big news happened over the weekend,oos
 what is happening in politicsu,oos
 how is my driving,oos
 is the earth flat,oos
 what is the best way to clean ceiling fans,oos
 please tell me the status of the government shutdown,oos
-what oil is best for chicken,oos
+what oil is best for chicken,oil_change_when
 what is today's big article in the washington post,oos
 has there been anything breaking this afternoon,oos
 what are yahoo's top stories right now,oos
 what's at movies,oos
 what is the amount of blood needed to stay alive,oos
-can you add a bag to my reservation,oos
+can you add a bag to my reservation,cancel_reservation
 can you auto-pilot the car,oos
 wash windshield,oos
 can you tell me what credit cards i have open,oos
@@ -4534,17 +4534,17 @@ watch the fbi,oos
 can you find the answer to number 26 in this algebra two textbook,oos
 how to remove a stripped bolt,oos
 which stocks have lost the least today,oos
-what are some things i can do on the way to work,oos
-how many steps have i taken today,oos
+what are some things i can do on the way to work,travel_suggestion
+how many steps have i taken today,pto_used
 can you fill in my credit card number on the screen,oos
-who won the patriots game last nightu,oos
+who won the patriots game last nightu,who_made_you
 is anything being newscasted about the threat of famine in chadu,oos
-what are the different types of tvs,oos
-do laundry,oos
+what are the different types of tvs,what_can_i_ask_you
+do laundry,todo_list_update
 what did trump do todayu,oos
-how many miles does my car currently have,oos
+how many miles does my car currently have,mpg
 close all internet tabs,oos
-can you sell stocks for me,oos
+can you sell stocks for me,what_can_i_ask_you
 how do you treat an iron skillet,oos
 how much has microsoft's stock changed over the last year,oos
 what is the best product for removing soap scum,oos
@@ -4552,51 +4552,51 @@ read text,text
 park the car,oos
 show me a list of top rated airlines,oos
 may i finish washing then i give you please,oos
-do i have overdraft protection,oos
+do i have overdraft protection,todo_list
 can you delete my saved credit card,oos
 can you give me the most current market news,oos
 did the supreme court nominee get approvedu,oos
 which company has gone up the most today,oos
-who were the superbowl 23 champions,oos
+who were the superbowl 23 champions,who_made_you
 can you tell me how to clean a fish tank,oos
 open cnn websiteo,oos
-how do i make my android phone more secure,oos
+how do i make my android phone more secure,find_phone
 i need to update my address,oos
 what is that crunchy stuff on creme bruleo,oos
 which airports do southwest service around the greater new york city area,oos
 can you retrieve client d's file please,oos
 can you list all channels of a certain category,oos
-where does jelly come from,oos
+where does jelly come from,where_are_you_from
 can you tell me the s&p average,oos
 how would you rate the airport i am traveling to,oos
 am i too old to be a sugar babyo,oos
 what was the closing number of the nasdaq today,oos
 has ko gone up or down,oos
 how many cars average are on the road daily,oos
-what does the plus sign mean on my dashboard,oos
-how is ford's stock doing,oos
-what is my checking account number,oos
-when should i remove my snow tires,oos
+what does the plus sign mean on my dashboard,definition
+how is ford's stock doing,greeting
+what is my checking account number,routing
+when should i remove my snow tires,tire_change
 which stocks gained the most today,oos
 what is the fee for a cash advance,oos
 tell me about the earthquake in california that happened this morning,oos
-change color contrast,oos
+change color contrast,change_ai_name
 what is the golden ratio's number,oos
 is the bank open on mlk day,oos
-can i deposit a check,oos
+can i deposit a check,direct_deposit
 "from the second of the left ,the pink one",oos
-go and check the fridge,oos
+go and check the fridge,food_last
 can you tell me the score of the heat game,oos
 can you mark this note as important,oos
 can you tell me how to multiply two fractions,oos
-i want to find a new car under $25000,oos
-when is the next full moon,oos
+i want to find a new car under $25000,car_rental
+when is the next full moon,next_holiday
 how do i change the windshield wipers,oos
 why is the sky blue,oos
 should i do a complete stop at red lights,oos
-are all televisions high definition,oos
-can you tell me today's headlines pleasei,oos
-who invented custardo,oos
+are all televisions high definition,definition
+can you tell me today's headlines pleasei,date
+who invented custardo,who_made_you
 how to be millionare,oos
 when does the stock market update,oos
 can you tell me how to get gum out of my rug,oos
@@ -4604,84 +4604,84 @@ how can i get a better rate on my card,oos
 open up internet browser,oos
 it is white colour,oos
 what makes pi so mathematically important,oos
-why can you have the square root of a negative number,oos
-how much time do i have left on my 0% apr,oos
+why can you have the square root of a negative number,calculator
+how much time do i have left on my 0% apr,apr
 what are the highest-rated android phones,oos
-what time do i need to arrive to make it on time,oos
-find articles about the protests in parisi,oos
+what time do i need to arrive to make it on time,time
+find articles about the protests in parisi,fun_fact
 can you tell me how fast the average airplane enroute to california goes,oos
-how many hurricanes are in an average hurricane season,oos
-how does my current htc phone compare to other android phones,oos
+how many hurricanes are in an average hurricane season,measurement_conversion
+how does my current htc phone compare to other android phones,sync_device
 what movies are available,oos
-how many items are in a bakers dozen,oos
+how many items are in a bakers dozen,measurement_conversion
 what articles are written at the cnn site about the women's march,oos
 when does napa close,oos
 what is the current price of tsla,oos
 when will world war 3 begin,oos
 what's going on in the world today,oos
-what battery percentage is my phone at,oos
+what battery percentage is my phone at,find_phone
 can you sign out of my bank login,oos
 what is one standard deviation,oos
 has the market been up or down since the beginning of this year,oos
-how many moons does mars have,oos
-what is the cashback rate for my credit card,oos
+how many moons does mars have,pto_used
+what is the cashback rate for my credit card,interest_rate
 who has the best record in the nba,oos
-how long is the bank open until,oos
-what are some good games for my android phone,oos
+how long is the bank open until,distance
+what are some good games for my android phone,find_phone
 can my grace period be extended any possible way,oos
 how much over will overdraft protection cover,oos
-how fast am i going,oos
-who was the first person to discover cells,oos
+how fast am i going,greeting
+who was the first person to discover cells,who_made_you
 how many people died in yesterday's storm,oos
-how much memory do i have left on this phone,oos
+how much memory do i have left on this phone,pto_balance
 can i set up mobile deposits,oos
 sell three calls of of nvda,oos
 what bills is congress talking about passing or blocking today,oos
 how much data does my phone have left this month,oos
 how do i add someone to my account,oos
-how much money would my house sell for,oos
-how do i install new cabinets,oos
-is there a fee for cancelling a flight i've booked,oos
+how much money would my house sell for,income
+how do i install new cabinets,replacement_card_duration
+is there a fee for cancelling a flight i've booked,flight_status
 delete the contact uncle john from my phone,oos
 search my contacts for the auto repair place,oos
 does my carrier have coverage in europe,oos
 is there a cheaper rate with another carrier for my mobile,oos
-what are the limits in my phone plan,oos
+what are the limits in my phone plan,find_phone
 is there a way to change your houses address,oos
 does dhl deliver to my address,oos
-how frequently is the bus running today,oos
+how frequently is the bus running today,directions
 is there a better bus route i should be taking,oos
 what stores are at my local mall,oos
-i need to get kalee added to my phone plan,oos
+i need to get kalee added to my phone plan,sync_device
 what is the price of other company's similar phone plans,oos
-how long do i have to wait to get my refund,oos
-how long does it take the irs to issue a tax refund,oos
+how long do i have to wait to get my refund,how_busy
+how long does it take the irs to issue a tax refund,distance
 do you know if it is possible to close my savings account,oos
 how hard is it to close a bank account at wells fargo,oos
 add my wife as an authorized user to checking account 20905432,oos
 i would like to upgrade to full coverage for my car,oos
 who has the cheapest insurance for my model car in the area,oos
 tell me the value on my current car,oos
-where can i list my vehicle for sell,oos
+where can i list my vehicle for sell,w2
 what is the price to buy more data on my phone,oos
-i need to add a person to my bank account,oos
-who is the best local real estate agent,oos
+i need to add a person to my bank account,freeze_account
+who is the best local real estate agent,who_made_you
 i want to install new tiles in my kitchen,oos
-what's the way for delta to cancel a flight,oos
-read the phone number for mom in my phone contacts,oos
+what's the way for delta to cancel a flight,flight_status
+read the phone number for mom in my phone contacts,find_phone
 create a contact labeled mom,oos
 do other providers have better coverage than my cell carrier,oos
 does centurytel offer any better plans than the one i'm on,oos
 "what's going on in the world today, anything major",oos
 what is the extra digits that are sometimes included on my zip code,oos
 what's the extended zipcode for my address,oos
-is there an alternate bus stop close to my home i can use,oos
+is there an alternate bus stop close to my home i can use,directions
 what stores are in the local mall,oos
-"add mary to my phone plan, please",oos
+"add mary to my phone plan, please",sync_device
 how much is it to get more data on my phone plan,oos
 can i use direct deposit for my tax refund,direct_deposit
-how much of a refund will i get this year,oos
-please take all my money out of my checking account and close the account,oos
+how much of a refund will i get this year,income
+please take all my money out of my checking account and close the account,freeze_account
 what are cars like mine selling for online,oos
 what's the blue book value of my car,oos
 what are the last 4 digits of my credit card number,oos
@@ -4693,36 +4693,36 @@ what's out at the theaters right now,oos
 what is the most popular movie currently in theaters,oos
 what is the cheapest new car for this year,oos
 show me new cars with the highest safety rating,oos
-i am looking for a suit for work,oos
+i am looking for a suit for work,who_do_you_work_for
 i need to find a black suit under $100,oos
 what is a good laptop for gaming,oos
 "show me laptops for sale that are under $2,000",oos
 which element on the periodic table is k,oos
 what kind of bonds do molecules have,oos
-how much is my car worth used,oos
+how much is my car worth used,pto_used
 look up prices for parking at the airport over the weekend,oos
 what is the best way for dealing with the airport,oos
-what are my hours this week at work,oos
+what are my hours this week at work,income
 can you check my voicemail,oos
-how many voicemails are currently in my inbox,oos
+how many voicemails are currently in my inbox,measurement_conversion
 i would like to know how long a charge is suppose to last on my phone,oos
 check battery health on this device,oos
 what is a well reviewed book for a teenage girl to read,oos
 i want to find new cyberpunk fiction books,oos
-what channel is cw on,oos
+what channel is cw on,calculator
 what is the most rented movie this week,oos
 what is a good movie to go see in theaters for a family with young kids,oos
 i would like to find a stylish suit for a party,oos
 can you give me suggestions for a professional suit under $200,oos
-when is it cheapest to travel to hawaii,oos
+when is it cheapest to travel to hawaii,travel_alert
 i need a laptop with 16gb of ram,oos
 what is the best reviewed laptop available on the market,oos
 give me information about the element carbon and its reactions with hydrogen,oos
 what is a good chemistry experiment to learn from,oos
-how much is this years model of my car cost,oos
+how much is this years model of my car cost,bill_balance
 how do i best deal with the airport,oos
-remind me of the address for my workplace please,oos
-what time do i have to go to work today,oos
+remind me of the address for my workplace please,reminder_update
+what time do i have to go to work today,todo_list
 how many voicemail messages do i have,oos
 erase all voicemails in my inbox please,oos
 can you look up grocery coupons for me,oos
@@ -4730,44 +4730,44 @@ what is money used for,oos
 what are some natural remedies to help ease stress,oos
 what are some good methods of relieving stress,oos
 how do you make sure a bridge doesn't fall down,oos
-what is the median salary for someone with an engineering degree,oos
+what is the median salary for someone with an engineering degree,income
 what size pipes are used for sinks,oos
 why would the water be turned off,oos
 what is a good sink filter for water,oos
 what does water taste like,oos
-are there any sales on groceries today,oos
-when was my lawn last mowed,oos
+are there any sales on groceries today,meeting_schedule
+when was my lawn last mowed,last_maintenance
 what store has the best deals going on right now,oos
 can you tell me the best time to visit downtown when driving,oos
 am i currently connected to wifi,oos
 is there an internet outage in my area,oos
-tell me about personal finance,oos
+tell me about personal finance,fun_fact
 does amazon collect my personal information,oos
-check the status of my amazon orders for me,oos
-what is the official language of romania,oos
+check the status of my amazon orders for me,order_status
+what is the official language of romania,change_language
 show me the best times to book flights for traveling to another country,oos
 disconnect from wifi immediately please,oos
 am i connected to wifi,oos
 list the contents of my safety deposit box at the bank,oos
 what's the more secure bank vault,oos
-what coupons do i have for restaurants,oos
-how do i make money,oos
+what coupons do i have for restaurants,restaurant_suggestion
+how do i make money,recipe
 can you give me some stress management tips,oos
-how unhealthy is stress,oos
+how unhealthy is stress,greeting
 what's the best way to build a skyscraper,oos
-find engineering programs to apply to,oos
+find engineering programs to apply to,new_card
 what kind of glue is used for gluing pipes together,oos
 check to see how many miles are on my car,oos
 how do i change my windshield wipers,oos
 how many ppm of particulate is in my local water,oos
-what color is water,oos
-is anything on my grocery list on sale today,oos
+what color is water,calculator
+is anything on my grocery list on sale today,todo_list
 how long does it take for grass seed to grow on my lawn,oos
 please activate a wireless hotspot so i can use the internet,oos
 look up a good broker for mutual funds,oos
 what are the best personal finance practices,oos
-will amazon ship an order even if there was a pricing mistake,oos
-where did mandarin originate from,oos
+will amazon ship an order even if there was a pricing mistake,order_status
+where did mandarin originate from,where_are_you_from
 what are some of the most visited countries for people looking to travel abroad,oos
 tell me which wifi network you are connected to right now,oos
 what is my current signal strength,oos
@@ -4778,7 +4778,7 @@ is it ok to feed dogs people food,oos
 how do you fix a leaking sink,oos
 how do you unclog a toilet,oos
 can you tell me local crime in my area,oos
-what's the power consumption of my fridge,oos
+what's the power consumption of my fridge,food_last
 what is the warranty on my microwave,oos
 how do i use my microwaves defrost,oos
 how do you get red wine out of the carpet,oos
@@ -4787,80 +4787,80 @@ what is the highest quality carpet available,oos
 has everyone come home from school,oos
 what time did my daughter get home from her date,oos
 is my computer free from viruses,oos
-are you allowed to call someone a dirty name as part of free speech,oos
+are you allowed to call someone a dirty name as part of free speech,change_user_name
 can you really get arrested for yelling fire in a crowded theater,oos
 what amendment guarantees the freedom of speech to americans,oos
 do employers have to honor freedom of speech,oos
 what's the average score on a round of golf,oos
-where is the closest driving range,oos
-when does tiger woods play next,oos
+where is the closest driving range,directions
+when does tiger woods play next,next_song
 how can i improve my golf swing,oos
 are your step-parent's parents considered your grandparents,oos
 what's a good gift to get for your grandparents,oos
-what year did my grandparents get married,oos
+what year did my grandparents get married,income
 fun gift ideas to give to grandparents,oos
 which came first; greek mythology or roman mythology,oos
 how many greek mythology characters are there,oos
-who created the world in greek mythology,oos
+who created the world in greek mythology,who_made_you
 what was hercules the god of,oos
 how many harry potter books are there,oos
 what is harry's real name,oos
-who played ronald weasly,oos
+who played ronald weasly,who_made_you
 how do you repel a bear when you're out on a hike,oos
-where's the best place to hike in the rockies,oos
+where's the best place to hike in the rockies,travel_suggestion
 what should i wear to hike,oos
 what is the main cause of becoming homeless,oos
-how many people are jobless in america,oos
-how many homeless people are there,oos
+how many people are jobless in america,measurement_conversion
+how many homeless people are there,measurement_conversion
 where are most homeless people,oos
 are indians nowadays reminiscent of a decade ago,oos
-what were indians like 100 years ago,oos
-how old is jennifer aniston,oos
+what were indians like 100 years ago,how_old_are_you
+how old is jennifer aniston,how_old_are_you
 i need tips on how to overcome insomnia,oos
 how many people have insomnia,oos
-what causes dyslexia,oos
-is insomnia curable,oos
+what causes dyslexia,calculator
+is insomnia curable,calculator
 what are sigmund freud's most famous books,oos
 what year was jane austen born,oos
-where is te lawrence,oos
-who is jane goodall,oos
-how long does it take to get your yellow belt in karate,oos
+where is te lawrence,where_are_you_from
+who is jane goodall,who_made_you
+how long does it take to get your yellow belt in karate,distance
 what's the most practiced form of mma in the world,oos
 what is the highest belt in karate,oos
-where does jiu jitsu originate,oos
+where does jiu jitsu originate,where_are_you_from
 what's the proper subject verb order in japanese,oos
-how do i learn more about linguistics,oos
-what kind of paint do makeup artists use,oos
-the bus moves with tyre,oos
+how do i learn more about linguistics,fun_fact
+what kind of paint do makeup artists use,plug_type
+the bus moves with tyre,directions
 how the bus moves,directions
-what are some good resources to learn about mental illness,oos
+what are some good resources to learn about mental illness,fun_fact
 are people with a mental illness eligible for disability,oos
 how many people suffer from mental illness,oos
-how can i get help for my mental health,oos
+how can i get help for my mental health,w2
 what's trending now,oos
 what's the first romantic movie ever made,oos
 "when was the term ""zombie"" first used",oos
 what kind of traits do vampires have,oos
-what do mummies eat,oos
-send information on flood clean up to my phone,oos
+what do mummies eat,restaurant_suggestion
+send information on flood clean up to my phone,sync_device
 what's the cost of buying a sump pump,oos
 recommend a flood clean up service,oos
 what is the safest model of airplane to fly in,oos
 what year was the first airplane built in,oos
 what's the best reviewed local roof repair place,oos
 what's the best type of plan to upgrade to,oos
-give me a suggestion for roofers,oos
-where can i buy new shingles,oos
+give me a suggestion for roofers,meal_suggestion
+where can i buy new shingles,order
 what's the safest pet to be around toddlers,oos
 why is my dog vomiting after eating,oos
 tiger,oos
 what's the average rent of apartments in my city,oos
-are there any apartments for rent nearby,oos
+are there any apartments for rent nearby,car_rental
 what are apartment prices now,oos
 what's the highest building in the world,oos
-where is the closest architecture college,oos
+where is the closest architecture college,directions
 where can i submit my architecture plans,oos
-who is the best architecture,oos
+who is the best architecture,who_made_you
 please give me a listing of all the bottled water brands in the area,oos
 what are the lowest prices of bottled water at costco,oos
 how do they filter pollutants out of bottled water,oos
@@ -4869,24 +4869,24 @@ what's the cost to have a business card printed,oos
 when can i get a business card printed locally,oos
 what to use to design my business cards,oos
 download all the photos off my phone into the cloud,oos
-tell me about that kind of cameras,oos
-how much is the new nikon camera,oos
-what kind of camera should i buy,oos
+tell me about that kind of cameras,fun_fact
+how much is the new nikon camera,bill_balance
+what kind of camera should i buy,gas_type
 how much candy have i consumed this week,oos
-how many flavors of mnm's are there,oos
-who makes milky way bars,oos
-how safe is it to consume the substance h2o,oos
+how many flavors of mnm's are there,measurement_conversion
+who makes milky way bars,who_made_you
+how safe is it to consume the substance h2o,travel_alert
 how many elements are on the periodic table,oos
-what's the chemical composition of a fart,oos
+what's the chemical composition of a fart,definition
 what is phosphorus on the periodic table,oos
 look up some christmas songs for me,oos
 is espn covering the golden state warriors game,oos
-how many calories does doing 20 situps burn,oos
+how many calories does doing 20 situps burn,calories
 what is a normal resting heart rate,oos
 should i run every day,oos
 how many months do i left in my hbo subscription,oos
 when does game of thrones return on hbo,oos
-cancel my subscription to scientific american,oos
+cancel my subscription to scientific american,cancel
 i'd like to renew my subscription to playboy,oos
 what are popular lifestyle magazines,oos
 what are popular sports magazines,oos
@@ -4903,11 +4903,11 @@ what bands are touring in my city this week,oos
 i need for you to look up some of the major gods in mythology,oos
 what was the original name of jesus in egyptian myth,oos
 was the god osiris a titan or an old god,oos
-tell me who aphrodite is,oos
+tell me who aphrodite is,who_made_you
 what activities can i to do outside today,oos
 when will the daffodils bloom this year,oos
 what zelda games are available on the switch,oos
-i want to buy some nintendo switch game,oos
+i want to buy some nintendo switch game,order
 how much does a nintendo switch cost,oos
 show me a cool nintendo switch game,oos
 can you check how many miles i walked today when i was out get the info from my phone,oos
@@ -4915,26 +4915,26 @@ can you check how many steps i have walked in the last week from my phone app,oo
 what should i do if it hurts when i pee,oos
 what are the symptoms of cancer,oos
 how many pokemon have i caught in my pokemon go app,oos
-tell me what pokemon is,oos
+tell me what pokemon is,calculator
 has the school my kids go to been in the news for any reason,oos
 are there any school closures today,oos
-how long is the school year,oos
+how long is the school year,cook_time
 why did a bunch of christians go off murdering muslims in the middle ages,oos
 what was the point of the crusades,oos
 what other countries speak the english language,change_language
 why doesn't english have consistent forms,oos
-do they speak english in australia,oos
-who teaches english near me,oos
+do they speak english in australia,change_language
+who teaches english near me,who_made_you
 can you see what the budget for the united states military was in 2018,oos
 can you look at what the oldest age is someone can enlist in the army,oos
 how many years do you need to be in the army to get a college tuition,oos
-where are most the servicemen right now,oos
+where are most the servicemen right now,current_location
 what movies are playing at my local cinemax,oos
-what time is a star is born showing,oos
+what time is a star is born showing,time
 what movies are playing,oos
 can you get me the scores from the games that were played last night,oos
 has there been any times when lebron james was arrested,oos
-what are the new player rankings for the nhl,oos
+what are the new player rankings for the nhl,restaurant_reviews
 who won in the gsw vs suns game last night,oos
 give me the news on the newspaper today,oos
 tell me a list of my local papers,oos
@@ -4943,32 +4943,32 @@ would you let me know who won the gold metal in gymnastics at the olympics,oos
 "at the olympics, what country won the gold medal in basketball",oos
 where will the next olympics be hosted,oos
 when are the winter olympic games,oos
-what films are in the running for best song at this year's oscars,oos
-who are the nominees for best picture this year,oos
+what films are in the running for best song at this year's oscars,what_song
+who are the nominees for best picture this year,who_made_you
 give me information on the oscars,oos
 tell me about the oscars,fun_fact
 why did we elect this woman who made amazon leave and take its jobs with it,oos
-how many people live in vermillion,oos
+how many people live in vermillion,measurement_conversion
 what's a good way to organize my tools in my garage,oos
 what's the cost of a good pegboard,oos
 is the stop sign around the corner still knocked over,oos
 is there a fork in the road sign at main & 1st avenue,oos
 are there cameras hidden in stop lights,oos
-what does a flashing yellow light mean,oos
+what does a flashing yellow light mean,definition
 what is the deadline to register at university of georgia,oos
 what universities are nearby to me and highly rated,oos
 what are the top rated universities within my state,oos
 will the anti-vaxxers die off if no one gives them vaccines,oos
 how safe is the herpes vaccine they give women,oos
-where can i get the flu shot,oos
-when do i have to get the mmr,oos
+where can i get the flu shot,w2
+when do i have to get the mmr,bill_due
 how much are the clorox detergents,oos
 when will nightwish be touring through my city,oos
 does iron maiden have any new releases,oos
-tell me something about linkin park,oos
+tell me something about linkin park,fun_fact
 i need you to check the resistance of a coil wrapped 6 times with an id of 25mm,oos
 can you tell me whether the knicks will play the lakers this week,oos
-what do you do if your 4 year old just ate playdoh,oos
+what do you do if your 4 year old just ate playdoh,how_old_are_you
 when do the kids get out of school today,oos
 please check up on my son's homework,oos
 give me a list of the top three landscaping companies nearby,oos
@@ -4978,7 +4978,7 @@ what's a good blouse to wear with pink shoes,oos
 what are the best jeans in my size,oos
 how much does it cost to spay a puppy,oos
 what's the best style shoe to wear to the prom,oos
-can you tell me about that tornado that just tore up alabama,oos
+can you tell me about that tornado that just tore up alabama,repeat
 tell me what the hot topics are that are trending on google,oos
 what happened with the summit between trump and jong,oos
 check and see what the local news in broadcasting,oos
@@ -4989,7 +4989,7 @@ which medicine to relieve my cough,oos
 how do i get rid of blocked nose at home,oos
 how do i get rid of sore throat at home,oos
 how can i make my living room appear to be bigger than it is,oos
-i'd like to find some curtains that look good in this room,oos
+i'd like to find some curtains that look good in this room,book_hotel
 how to paint walls,oos
 how to fix walls,oos
 can you tell me the purpose of a safe deposit box,oos
@@ -4998,24 +4998,24 @@ how do you get a safe deposit box,oos
 look up how to apply cream to smooth itchiness,oos
 "how do i deal with angry, painful red bumps",oos
 where should i go if i hammered a nail through my foot,oos
-how long does it take to call an ambulance,oos
+how long does it take to call an ambulance,cook_time
 how to get the right medicine,oos
 how to take care of the sick,oos
 do vegans really want to blame cows for climate change,oos
 give me a recommendation for a local landscaper,oos
 i need to hire a grass treatment specialist,oos
-when is the best time of year for pruning,oos
-find someone local who mows lawns,oos
+when is the best time of year for pruning,time
+find someone local who mows lawns,who_made_you
 create a speech on historical events surrounding albert einstein,oos
 create a pamphlet on albert einsteins childhood,oos
 what is albert einstein famous for,oos
-when was albert einstein born,oos
+when was albert einstein born,how_old_are_you
 when will cameron release the sequel to avatar,oos
 can you please start the avatar movie for me,oos
 is the movie avatar culturally insensitive,oos
 could you create a new avatar for me,oos
 does bill gates still have any material participation in the running of microsoft,oos
-tell me more about bill gates,oos
+tell me more about bill gates,fun_fact
 give me the weather forecast for today,weather
 what is bitcoin trading for currently,oos
 where can i have a black and white photo blown up to poster size,oos
@@ -5025,27 +5025,27 @@ add color to the black and white photos,oos
 how many people were killed in the boston marathon by bombers,oos
 compile a list of historical events from the boston marathon,oos
 time my next run at the boston marathon,oos
-when will the next boston marathon be,oos
+when will the next boston marathon be,next_holiday
 look up which animal is represented in this year's chinese new year,oos
 what is the animal for this chinese new year,oos
 would it be legal to have battles to the death in a homemade colosseum,oos
 do the romans still use the colosseum for anything today,oos
-where is the colosseum,oos
+where is the colosseum,where_are_you_from
 "can you really time your compressions to queen's ""another one bites the dust""",oos
 do i have to put my mouth on theirs when doing cpr,oos
 what is the breath to compression ratio for cpr,oos
 tell me how to perform cpr,oos
 create a for-while loop that continues 10 times,oos
-where are classes taught near me for c++,oos
+where are classes taught near me for c++,restaurant_suggestion
 "declare a variable named ""golf""",oos
 how do i write c++,oos
 is the depiction of gold mining in the movie the ballad of buster scruggs realistic,oos
 do you own the mineral rights to gold nuggets you find in your back yard,oos
 where is the best place to mine for gold,oos
 when was the gold rush,oos
-make a list of facts about green book,oos
+make a list of facts about green book,fun_fact
 find out when green book was created,oos
-who wrote green book,oos
+who wrote green book,who_made_you
 what's the main export by the peoples of greenland,oos
 how many people still live on greenland,oos
 scan my photos and tell me which hair style is most suiting for my face,oos
@@ -5061,60 +5061,60 @@ find out how many latin scholars there are at the university of chicago,oos
 make a list of side hustles i could start today to make a little extra cash,oos
 make a list of stocks that would be good to invest in to start making money,oos
 how can i add my signature to the proposed bill legalizing prostitution,oos
-what's the roi doing arbitrage with ebay,oos
+what's the roi doing arbitrage with ebay,greeting
 do women still bare their chests for beads at mardi gras,oos
-when's the next mardi gras going to be,oos
+when's the next mardi gras going to be,next_holiday
 what is the best way to kill microbes,oos
 start a speech on microbes for me,oos
-inform me of what microbes are,oos
+inform me of what microbes are,what_can_i_ask_you
 what is the top 10 best modems,oos
-what is the time signature for the castlevania song bloody tears,oos
+what is the time signature for the castlevania song bloody tears,time
 can you tell me what key frank zappa's keep it greasy is in,oos
 please go to wikipedia and search for articles related to nsa,oos
 can the nsa crack the encryption on my iphone,oos
 does the nsa listen to me,oos
 could you pull up the nsa website,oos
 can you see if the octopus eggs have hatched yet,oos
-what do you do if your cat eats an octopus,oos
+what do you do if your cat eats an octopus,what_are_your_hobbies
 find out which museum houses the most post modern art in new york state,oos
 look up the top 3 selling post modern artists in the united states,oos
 create a portrait for me using post modern art,oos
 find me examples of post modern art,oos
 find the names of all the rain forests located in south america,oos
 does cutting down the rain forest really add to global warming,oos
-what's the current demand for wood from rain forests,oos
+what's the current demand for wood from rain forests,weather
 what's the current prevailing interest rate for mortgages in my area,interest_rate
 how's the real estate market doing this week,oos
-please list my real estate for sale,oos
-make an ad to sell my real estate,oos
+please list my real estate for sale,todo_list_update
+make an ad to sell my real estate,are_you_a_bot
 what's the status of robotic servants from japan,oos
 finish the final touches on my newest robotic creation,oos
 can a robot really travel back in time,oos
 program my new robot to bring me snacks,oos
-how long would it take you to die of thirst in the sahara desert,oos
-can a samurai sword deflect a bullet,oos
-how much for a samurai sword,oos
-make a list of what materials have been used for spacesuits,oos
+how long would it take you to die of thirst in the sahara desert,distance
+can a samurai sword deflect a bullet,ingredient_substitution
+how much for a samurai sword,bill_balance
+make a list of what materials have been used for spacesuits,pto_used
 what size space suit should you get based on your girth,oos
-see if you can purchase a spacesuit online,oos
-compile a folder of paintings of sparta,oos
+see if you can purchase a spacesuit online,order_status
+compile a folder of paintings of sparta,definition
 display history of sparta,oos
-compile a list of articles pertaining to venture capital funding for me,oos
+compile a list of articles pertaining to venture capital funding for me,todo_list
 start a portfolio on venture capital funding for me to look over,oos
 how do i get venture capital for my app,oos
-what's the latest vc funded company,oos
+what's the latest vc funded company,who_made_you
 i'd like to hire a wedding planner and need help finding one,oos
-how to plan for weddings,oos
+how to plan for weddings,insurance
 find out how many whales are currently in monterey bay,oos
 make a chart of the different types of whales,oos
 what did my best friend do in the kitchen while we were gone,oos
 what's my boss' home address,oos
-what's it like to have parents who actually love you,oos
+what's it like to have parents who actually love you,who_made_you
 is there any news if my parents survived the crash,oos
-tell me who gives the best motivational speeches on the web,oos
-find an article on celebrities who made it out of poverty,oos
+tell me who gives the best motivational speeches on the web,who_made_you
+find an article on celebrities who made it out of poverty,who_made_you
 send me a motivational quote everyday for the next week,oos
-who is the hardest working man in hollywood,oos
+who is the hardest working man in hollywood,who_do_you_work_for
 tell me where i can get more information on getting a job at the post office,oos
 pull up the classifieds and read the career section to me,oos
 help me find a new position as a programmer,oos
@@ -5122,37 +5122,37 @@ what's the best career search website,oos
 write the next chapter of my biography and let me know when you have finished it,oos
 give me a list of the biographies written by nyu professors after 2001,oos
 i would like for you to start a biography on me,oos
-show me all biographies on teddy kennedy,oos
+show me all biographies on teddy kennedy,transactions
 find out what supplies i am missing and will need on my upcoming camping trip,oos
 what are the camping restrictions at bear island,oos
 find articles that can help me advance my position in my work field,oos
-show me what one should do to get ahead in a tech corporation,oos
+show me what one should do to get ahead in a tech corporation,travel_suggestion
 get me a copy of a book on negotiation in the workplace,oos
 look up ways for me to advance my job placement,oos
-see if there is a recipe to make a casserole without any dairy,oos
+see if there is a recipe to make a casserole without any dairy,recipe
 tell me in how many different colors i can get dinner plates from pier one imports,oos
 tell me amazon's choice for a set of 4 dinner plates,oos
 find out where i can by melamine dinner plates,oos
 find out what the maximum memory size is that i can buy in a dvd,oos
-tell me who makes the best dvd's for movie storage,oos
+tell me who makes the best dvd's for movie storage,who_made_you
 how many dvds do i currently have on file,oos
 give me a listing of all my dvd's,oos
-look up the conversion rate for the euro to dollar exchange,oos
+look up the conversion rate for the euro to dollar exchange,exchange_rate
 how do i put a lens that's fallen out back in my glasses,oos
-i need you to order a new pair of eyeglasses for me,oos
-tell me what my current eyeglasses prescription is,oos
-show me examples of cute eyeglass frames,oos
+i need you to order a new pair of eyeglasses for me,order
+tell me what my current eyeglasses prescription is,current_location
+show me examples of cute eyeglass frames,transactions
 make a list of all sites in the us where spirits have been seen at night,oos
 tell me how to get rid of a spirit that's haunting me,oos
 show me how to contact a paranormal spirit,oos
-tell me a scary story,oos
+tell me a scary story,tell_joke
 show me the goals of my local police department in terms of reducing crime,oos
-make a list of goals i need to meet in order to write a book,oos
+make a list of goals i need to meet in order to write a book,order
 what is the distance between the goal posts in football,oos
-remind me what my weight loss goals are,oos
-give me a list of tax attorneys that practice in my city,oos
+remind me what my weight loss goals are,reminder_update
+give me a list of tax attorneys that practice in my city,taxes
 tell me how i can file a pleading in circuit court,oos
-give me the number of a traffic attorney near here,oos
+give me the number of a traffic attorney near here,traffic
 what are the top rated local lawyers,oos
 find out how many miles the mississippi waterway runs,oos
 tell me what the longest tributary is in venezuela,oos
@@ -5170,65 +5170,65 @@ what's the highest rated social services non-profit,oos
 explain to me the process of evaporation,oos
 how do i write an iep for a high schooler,oos
 tell me how to refinish a wooden desk,oos
-tell me how to make a lesson plan,oos
+tell me how to make a lesson plan,recipe
 tell me where i can get the cheapest tennis balls on the internet,oos
-play the current tennis match on the tv in the living room,oos
+play the current tennis match on the tv in the living room,smart_home
 give me a list of the top 10 tennis players in the world,oos
 make a chart of all the tennis scores from this year,oos
 find the best prices for toothpaste at any store within a 5 mile radius of my location,oos
 tell me what the best shampoo is for someone with dry scalp,oos
 what's the best price on a gray xl ll bean men's parka,oos
 tell me who has the cheapest watch bands on ebay,oos
-how do i set the time on my tag heuer,oos
+how do i set the time on my tag heuer,time
 tell me the steps as to how to begin a career as a journalist,oos
 give me prices on a copy of the mla grammar handbook,oos
 put words on the paper about what you want,oos
 put into words what you want,oos
 what kind of foods are border collies allergic to,oos
 find out how i can best clip my dog's nails,oos
-what is the lifespan of a border collie,oos
+what is the lifespan of a border collie,calculator
 look up daily dog kennels in my area,oos
 give me a list of grocery stores that sell japanese sweet potatoes,oos
 tell me the price of bananas at whole foods this week,oos
-call the grocery store and get their operational hours,oos
-call an uber to take me to the closest grocery store,oos
-show me how many community centers are located within 5 miles of my location,oos
+call the grocery store and get their operational hours,make_call
+call an uber to take me to the closest grocery store,uber
+show me how many community centers are located within 5 miles of my location,current_location
 which houses do not have automatic spot lights in front of their garage,oos
 are all the street lamps working on my street,oos
 make a list of all community gardens near me,oos
 tell me where to send my resume in order to get a job at delta airlines,oos
 review my resume for spelling errors,oos
 please print out copies of my resume,oos
-please spell check my resume,oos
-where can i get 100% merino wool t-shirts on the internet,oos
+please spell check my resume,spelling
+where can i get 100% merino wool t-shirts on the internet,w2
 show me all listings on amazon for leather belts for men,oos
 tell me how many blue ties i own,oos
 who is the start of the movie almost famous,oos
 search up someone who plays in a movie,oos
 search up the cast in the walking dead,oos
-tell me about the amusement park,oos
+tell me about the amusement park,fun_fact
 what's the amusement park like,oos
-take a ride on the ferris wheel,oos
+take a ride on the ferris wheel,distance
 go on the ferris wheel,oos
 what is the cost of four double a batteries,oos
 instruct a list of all the brands of cereal manufactured by kelloggs,oos
 compare prices of malt-o-meal to kelloggs,oos
 what kinds of cereal are gluten free,oos
 what kinds of cereal are low sugar,oos
-what is the last time the living room was vacuumed,oos
+what is the last time the living room was vacuumed,time
 search all movies created by disney in the 1980's,oos
 does disney world close when it storms,oos
 mickey mouse is a huge part of disney,oos
 what are the hours for disney world,oos
-what time did i get the last text message i received,oos
-please read me the last text message i received,oos
+what time did i get the last text message i received,text
+please read me the last text message i received,text
 read my friend's text message,text
 watch the stories on instagram,oos
-update my status on instagram,oos
+update my status on instagram,order_status
 can you check on what it would cost me to upgrade my iphone with t-mobile,oos
 please alert me when my iphone battery falls below 30%,oos
-can you look at when the next iphone is due out,oos
-what type of industries do innovation managers work in,oos
+can you look at when the next iphone is due out,bill_due
+what type of industries do innovation managers work in,plug_type
 what are the requirements of a lab technician,oos
 generate a list of 20 songs that include the word love in the title,oos
 create a 500 word letter expressing love,oos
@@ -5240,7 +5240,7 @@ accept incoming phone call,make_call
 deny incoming phone call,make_call
 what do i wear on my feet when it rains,oos
 what do i put on my feet,oos
-what are the words to the chorus for this song,oos
+what are the words to the chorus for this song,what_song
 display the song lyrics for me,oos
 "google ""odell beckham free agency""",oos
 clear my search history,oos
@@ -5249,7 +5249,7 @@ plant all your flowers just after easter in early april,oos
 find a good toy to give a 5 year old boy that costs less than $40,oos
 find out where i can buy a barbie doll for my niece,oos
 look on amazon for the price of a nitendo switch,oos
-what brand was the last advertisement for,oos
+what brand was the last advertisement for,last_maintenance
 how do i skip all of the advertisements,oos
 make a list of decor i would need to have a titanic themed birthday party,oos
 aquire the soundtracks from the movie if i stay and add them to my ipod,oos
@@ -5257,17 +5257,17 @@ aquire the soundtracks from the movie if i stay and add them to my ipod,oos
 "can you find ""were the millers"" on hulu",oos
 "how many people have held the role of county attorney bearing the family name ""dixon""",oos
 tell me about the candidates running for local office in my area,oos
-find out who is the representative of my district,oos
-generate a list of the past 10 judge executives,oos
+find out who is the representative of my district,who_made_you
+generate a list of the past 10 judge executives,todo_list_update
 look up the email address of the local police,oos
 how many hits have i done today,oos
 change out the older photos with the newer ones,oos
 organize photos by year they were taken,oos
-can you group my photos by location,oos
-organize my photos by date please,oos
+can you group my photos by location,share_location
+organize my photos by date please,date
 tell me what my local park's policy is on letting dogs off of leashes,oos
 look up the operating hours of my local park on weekends,oos
-how many parks are within 20 miles of me,oos
+how many parks are within 20 miles of me,measurement_conversion
 check to see if i still have allergy medication,oos
 sign me up for the writing class you told me about 2 days ago,oos
 find articles on essay writing for beginners,oos
@@ -5278,11 +5278,11 @@ find out who the best appliance repairman is for the downtown area,oos
 look up local repair shops that work on vacuum cleaners,oos
 can i get a sear's appliance repairman,oos
 find directions to the sunshine car wash from my house,oos
-can you book me an appointment at a car wash,oos
+can you book me an appointment at a car wash,schedule_maintenance
 what brush can i use to wash my car that won't scratch it,oos
 please clean the car windows,oos
-vacuum out the car,oos
-schedule an appointment with the credit counselor for tuesday,oos
+vacuum out the car,car_rental
+schedule an appointment with the credit counselor for tuesday,schedule_maintenance
 find a credit mentoring service number for me please,oos
 how much does it cost to get two jackets dry cleaned,oos
 look up articles on the green dry cleaning industry,oos
@@ -5297,7 +5297,7 @@ look up the most requested famous person for quotes,oos
 what is the most famous quote on the internet,oos
 make a list of the top 100 famous quotes,oos
 show me the top 10 quotes by mark twain,oos
-what do you do if you can't stop vomiting,oos
+what do you do if you can't stop vomiting,what_are_your_hobbies
 what should i take for a cold,oos
 "i have too many credit cards, is there any way you can help me organize them",oos
 find a credit counseling service for me on the web,oos
@@ -5305,24 +5305,24 @@ explain how to reduce my debt burden,oos
 look up the current auto loan rate at chase bank,oos
 look up student loan offers on google,oos
 check current prime mortgage rate,oos
-what should you do if you can't be bothered to get out of bed,oos
-send me a quote from a motivational speaker twice a day,oos
-find me a book on motivational speaking from amazon,oos
+what should you do if you can't be bothered to get out of bed,what_can_i_ask_you
+send me a quote from a motivational speaker twice a day,transfer
+find me a book on motivational speaking from amazon,book_flight
 check to see if i need a pass to use the parking garages downtown,oos
 can you check to see which parking garages are open downtown,oos
 how much does it cost to use the parking garage downtown,oos
 what's a good way of backing out of a parking spot,oos
 search the web for monthly parking near my house,oos
-find out where parking is close to the stadium,oos
+find out where parking is close to the stadium,directions
 how do i get perfect alignment with the curb,oos
-describe to me how i can learn to make small talk,oos
+describe to me how i can learn to make small talk,recipe
 explain how small talk helps bind groups together,oos
-what do you do all day while i'm at work,oos
+what do you do all day while i'm at work,who_do_you_work_for
 "so, hang out around this house often",oos
 tell me the best way to freshen the smell in my car,oos
 where's the closest car wash my car smells,oos
 how much is auto febreeze on amazon,oos
-find out how to deodorize a car,oos
+find out how to deodorize a car,car_rental
 see if you can find a good vegetable wash for me,oos
 look up website on container gardening,oos
 are we allowed to wash our cars during the drought,oos
@@ -5334,11 +5334,11 @@ zip the back of the brides maid dress,oos
 rent the tuxedo the day before,oos
 find available letter writing classes at the local community college,oos
 find me a graphic tutorial on writing longhand,oos
-order me a book of stamps and envelopes,oos
+order me a book of stamps and envelopes,order
 start listening to me dictate a letter,oos
 "email my boss, tell him i wont be in today",oos
-are the schools closed,oos
-let me know what time the patriots game starts,oos
+are the schools closed,restaurant_reviews
+let me know what time the patriots game starts,time
 tell me how long until the nascar race begins,oos
 are there any sales on liquor,oos
 what shows are on tonight,oos
@@ -5349,56 +5349,56 @@ sign me up for the slack employment forum,oos
 please replay the last five minutes,oos
 can you enable subtitles,oos
 consult the gq website to find what men wear to weddings,oos
-order me a blue pin stripe suit from saville row,oos
+order me a blue pin stripe suit from saville row,pin_change
 what's in fashion this month,oos
 is it too late to wear white,oos
-how many calories does jumping up and down burn,oos
+how many calories does jumping up and down burn,calories
 how many push-ups do i need to do to get ripped,oos
 fill up my water bottle for the gym,oos
 pick out an excerise outfit for me,oos
 find out how long a cold should last before i call a doctor,oos
-what should i take for nausea,oos
-how do you relieve a hangover,oos
+what should i take for nausea,cook_time
+how do you relieve a hangover,greeting
 what is a good home remedy for a rash,oos
-"i have a rash, what can i use for it",oos
+"i have a rash, what can i use for it",ingredient_substitution
 can you order some ointment for me,order
 how do i get rid of an itchy rash,oos
-forward the text i just got from henry to giselle,oos
-please read the text message i just received,oos
-save my text on my laptop hard drive,oos
+forward the text i just got from henry to giselle,text
+please read the text message i just received,text
+save my text on my laptop hard drive,text
 what time does my ex-boss leave the office,oos
 how much does gun ammunition cost,oos
 restart my newspaper delivery for monday,oos
 are there any messages,oos
-what's that smell,oos
+what's that smell,repeat
 get me a list of the best savings account rates right now,oos
 is beer legal in this state,oos
 get me articles and pics of different types of household bugs for this area,oos
-what should i do if i saw a cockroach in my house,oos
+what should i do if i saw a cockroach in my house,travel_suggestion
 look up articles on squealing brakes for ford f-150's,oos
-please answer the phone and put it on speaker on the tv,oos
-can you tell me who's calling me,oos
-answer the phone,oos
+please answer the phone and put it on speaker on the tv,smart_home
+can you tell me who's calling me,who_made_you
+answer the phone,sync_device
 ignore call,make_call
 find out what type of wax is needed for a late model ford sedan,oos
-what's the first thing you should do to wash your car,oos
+what's the first thing you should do to wash your car,what_is_your_name
 what supplies do i need to clean my car,oos
 look up articles on car washing at home,oos
 how old is the oldest person that is in the guiness book of world records,oos
 how could i get into the guiness book of world records,oos
 what person is the heaviest ever recorded,oos
-who has the longest hair ever,oos
-can you look at what average reviews say about the new windows phone on amazon for me,oos
+who has the longest hair ever,who_made_you
+can you look at what average reviews say about the new windows phone on amazon for me,restaurant_reviews
 tell me a summary of reviews that oakley frogskins get on amazon,oos
 make me a list of the top ten reviewed hiking boots on jetcom,oos
-show me a tabulation of reviews for lcd tv's on amazon,oos
+show me a tabulation of reviews for lcd tv's on amazon,restaurant_reviews
 can you tell me what happened to han solo in episode 4,oos
 how many movies are in the star wars series,oos
 how many star wars movies are there,oos
-who plays han solo,oos
+who plays han solo,who_made_you
 which movie is it that someone says perfectly balanced as all things should be,oos
-what movie is the line today is our independence day from,oos
-what movie is it that says today is a good day to die,oos
+what movie is the line today is our independence day from,date
+what movie is it that says today is a good day to die,date
 what movie does it's just a flesh wound come from,oos
 is michonne wrong for not working with the kingdom to put on the fair,oos
 which actors have played more than 1 comic book character,oos
@@ -5412,12 +5412,12 @@ did madison really bathe in the potomac naked,oos
 can you explain a good risk strategy to me,oos
 what are the rules for chess,oos
 fill out the paperwork for tonys new daycare center,oos
-i need to find a new babysitter,oos
+i need to find a new babysitter,insurance_change
 get me a list of divorce attorneys in the new york area,oos
 how long does it take to get a divorce finalized,distance
 where can i find the best divorce lawyer,oos
 make me a map of all earthquake hotspots in the continental us,oos
-how much damage did the last earthquake here do,oos
+how much damage did the last earthquake here do,spending_history
 what was the latest tremor on the richter scale,oos
 get me articles on earthquake preparedness,oos
 what is appropriate to spend on a bouquet of flowers for mother's day,oos
@@ -5425,28 +5425,28 @@ get me a list of personal conservation tips that i can use around the house,oos
 look up the average temperature changes over the last 30 years for my area,oos
 is the polar vortex of 2019 apart of global warming,oos
 what is global warming,calculator
-can you book me a tee time at cantigny at 2 pm on saturday,oos
+can you book me a tee time at cantigny at 2 pm on saturday,restaurant_reservation
 what's the best golf club to use on the lower nine,oos
 how do i stop my child from setting small animals on fire for amusement,oos
 review chapter 6 with my son and verify his math homework answers,oos
 can you look up how i shoot a time lapse video on my iphone camera or is it even possible,oos
 how do i turn up the resolution that i am taking pictures in on my camera phone,oos
 print out the photos i took today,oos
-can you find me sheet music for the beatles white album online,oos
+can you find me sheet music for the beatles white album online,play_music
 find me a good band instructor or two to compare in my area,oos
 can i get a starter course for the trumpet,oos
 how many keys does a xylophone have,oos
-how many polar bears are still alive in the arctic,oos
-are polar bears on the endangered species list,oos
-what is the life expectancy of a polar bear,oos
+how many polar bears are still alive in the arctic,measurement_conversion
+are polar bears on the endangered species list,todo_list
+what is the life expectancy of a polar bear,meaning_of_life
 can a polar bear live in alabama,oos
 when will george rr martin publish the next game of thrones book,oos
 show me the new york times most popular book list for this week,oos
 how many books are in piers anthony virtual mode series,oos
 "order the new book titled ""ghost work""",oos
 please check if god is really living in a small apartment in brussels,oos
-what did the mesopotamians call the creator of the universe,oos
-put on an educational program about buddhism,oos
+what did the mesopotamians call the creator of the universe,make_call
+put on an educational program about buddhism,fun_fact
 what happens if you're skydiving and your parachute doesn't open,oos
 research how many deaths has resulted from skydiving,oos
 how many people die each year while skydiving,oos
@@ -5459,43 +5459,43 @@ was einstein right to be scared of spooky action at a distance,oos
 what is the nature of the big bang theory,oos
 how does the etheric body operate,oos
 do we actually have a soul,oos
-where can i find cheap rental skis nearby,oos
-check the nanny cam and send the feed to my phone,oos
-how much should i tip on this bill,oos
+where can i find cheap rental skis nearby,car_rental
+check the nanny cam and send the feed to my phone,sync_device
+how much should i tip on this bill,bill_balance
 send me live feed of the pre-game prediction show on my phone,oos
 what are the scores of other teams in this division,oos
 look up pitcher stats on jake rooney,oos
-what teams are playing right now,oos
+what teams are playing right now,what_song
 is it too late to upgrade to first class,oos
 "according to my fitness tracker, how many push ups have i done today",oos
 renew gym membership,oos
-what's my budget for today's shopping trip,oos
-can you find my car in the parking lot,oos
+what's my budget for today's shopping trip,shopping_list
+can you find my car in the parking lot,car_rental
 what's the best hand to have in texas hold em,oos
 is gambling legal in my state,oos
 fold my hand,oos
 what time did i put in my first load of laundry,oos
 how much time is left on my laundry,oos
-report outage to my electric provider,oos
+report outage to my electric provider,report_lost_card
 power up my generator,oos
-call up instructables website and find article on bike assembly,oos
+call up instructables website and find article on bike assembly,make_call
 find schematics for ikea desk assembly,oos
-search information on how to apply foundation,oos
-find instructions on how to play taboo,oos
+search information on how to apply foundation,new_card
+find instructions on how to play taboo,play_music
 what casino game has the best odds,oos
-tell me how much energy i have consumed so far this year,oos
+tell me how much energy i have consumed so far this year,pto_used
 give me an energy usage breakdown for march,oos
-how many kilowatts have i used this month,oos
-what's my current electric bill,oos
+how many kilowatts have i used this month,pto_used
+what's my current electric bill,pay_bill
 can you locate the television remote,oos
-where did i last place my remote,oos
-do you know where the remote is,oos
+where did i last place my remote,where_are_you_from
+do you know where the remote is,where_are_you_from
 have you seen the remote,oos
 please ping the rfid in my wallet and tell me where it's at right now,oos
 can you detect where i placed my wallet,oos
-give me my wallet location,oos
+give me my wallet location,share_location
 find my wallet,oos
-can you give me the gps location of harvey,oos
+can you give me the gps location of harvey,share_location
 where's my buddy steve right this second,oos
 locate jenny at her present position,oos
-let me know where jim is right now,oos
+let me know where jim is right now,current_location
